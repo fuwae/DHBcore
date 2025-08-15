@@ -1,0 +1,43 @@
+                                                                                                                                                                                           |
+<Core Beliefs（信念）>
+
+core_beliefs_sun_144_final.json
+mercury_core_beliefs_144_final.json
+venus_core_beliefs_144_final.json
+moon_core_beliefs_144_final.json
+mars_core_beliefs_144_final.json
+
+
+<Dominant Emotions（支配感情）>
+
+dominant_emotions_sun_to_mars.json
+dominant_emotions_jupiter_to_pluto.json
+
+
+<Tone Style（口調傾向） - 通常>
+
+tone_style_prompts_sun.json
+tone_style_prompts_moon.json
+tone_style_prompts_mercury.json
+tone_style_prompts_venus.json
+tone_style_prompts_mars.json
+tone_style_prompts_noaspect.json
+
+
+<Tone Style（口調傾向） - 合（conjunction）>
+
+tone_style_prompts_conjunction_sun_fixed.json
+tone_style_prompts_conjunction_moon.json
+tone_style_prompts_conjunction_mercury.json
+tone_style_prompts_conjunction_venus.json
+
+
+<モジュレーション／補助系>
+
+modulation_tag_map.json
+sign_traits.json
+
+
+<演算用スクリプト>
+
+tone_generator.py
