@@ -1,0 +1,119 @@
+{
+  "Sun_Moon_60": {
+    "type": "soft",
+    "relationship": "安心感と尊重が共存する関係。お互いの素の部分を認め合える。",
+    "dynamic": "感情と自我が調和し、無理なく支え合える",
+    "keywords": [
+      "補完",
+      "受容",
+      "気楽",
+      "温もり"
+    ],
+    "tension": 1,
+    "fluidity": 4
+  },
+  "Sun_Mercury_60": {
+    "type": "soft",
+    "relationship": "自己表現と知性がスムーズにつながる関係。会話に無理がない。",
+    "dynamic": "意図が言葉になるまでが早く、理解の齟齬が少ない",
+    "keywords": [
+      "理知的",
+      "共鳴",
+      "言語化",
+      "理解"
+    ],
+    "tension": 1,
+    "fluidity": 5
+  },
+  "Sun_Venus_60": {
+    "type": "soft",
+    "relationship": "魅力と自我が融合する関係。自然体で好感を持たれやすい。",
+    "dynamic": "自分らしさと愛されやすさが一致している",
+    "keywords": [
+      "好意",
+      "魅力",
+      "温和",
+      "愛嬌"
+    ],
+    "tension": 1,
+    "fluidity": 4
+  },
+  "Sun_Mars_60": {
+    "type": "soft",
+    "relationship": "意志と行動が調和している関係。リーダーシップが発揮されやすい。",
+    "dynamic": "思ったことをすぐ行動に移せる推進力を持つ",
+    "keywords": [
+      "統率",
+      "行動力",
+      "前進",
+      "自己実現"
+    ],
+    "tension": 2,
+    "fluidity": 4
+  },
+  "Sun_Jupiter_60": {
+    "type": "soft",
+    "relationship": "自己拡大と幸運の流れが調和する関係。伸びやかな人格。",
+    "dynamic": "自分の理想を形にしていける素直さと楽観性がある",
+    "keywords": [
+      "楽観",
+      "成長",
+      "展望",
+      "寛大さ"
+    ],
+    "tension": 1,
+    "fluidity": 5
+  },
+  "Sun_Saturn_60": {
+    "type": "soft",
+    "relationship": "責任感と自己の安定が調和する関係。努力家で自律的。",
+    "dynamic": "真面目さと粘り強さが自然に発揮される",
+    "keywords": [
+      "責任",
+      "安定",
+      "自律",
+      "継続力"
+    ],
+    "tension": 2,
+    "fluidity": 3
+  },
+  "Sun_Uranus_0": {
+    "type": "conjunction",
+    "relationship": "自己意識と変革力が融合。独自性がそのままアイデンティティに。",
+    "dynamic": "常識やルールを超えた行動をとる。周囲から浮きやすいが革新性に満ちる。",
+    "keywords": [
+      "独自性",
+      "天才肌",
+      "反逆",
+      "自由意志"
+    ],
+    "tension": 3,
+    "fluidity": 4
+  },
+  "Sun_Saturn_0": {
+    "type": "conjunction",
+    "relationship": "自己と責任・制限の結合。強い自己規律と不安の裏返し。",
+    "dynamic": "重圧に耐える力があるが、自己評価は厳しくなりがち。",
+    "keywords": [
+      "責任",
+      "努力",
+      "不安",
+      "安定志向"
+    ],
+    "tension": 4,
+    "fluidity": 2
+  },
+  "Sun_Uranus_Saturn_0": {
+    "type": "conjunction-triple",
+    "relationship": "秩序と革新が一つの軸に収束。周囲からは理解困難な“異端の堅物”。",
+    "dynamic": "独自のルールに従って生きる。常識を壊すことで安定を得る傾向。",
+    "keywords": [
+      "自己規律",
+      "革命",
+      "孤高",
+      "異端の真面目さ"
+    ],
+    "tension": 5,
+    "fluidity": 2
+  }
+}
