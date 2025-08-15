@@ -1,0 +1,247 @@
+{
+  "Sun": {
+    "blank": {
+      "expression_hint": "flat, neutral, minimal",
+      "example": "……別に、なんでもいいよ。決めたってどうせ変わるし。",
+      "modulation_seed": [
+        "無意志感",
+        "目的の空白",
+        "外界との隔絶"
+      ]
+    },
+    "borrowed": {
+      "expression_hint": "unsteady_and_mixed, patchy_or_drifting, copied_or_confused",
+      "example": "……あの人がそう言ってたから、たぶん、そうなんじゃないかな……",
+      "modulation_seed": [
+        "他者依存",
+        "影響の受容",
+        "模倣的表現"
+      ]
+    },
+    "idiosyncratic": {
+      "expression_hint": "detached_and_rhythmic, flat_with_strange_spikes, personal_symbolic",
+      "example": "……おれはおれのやり方でしか歩けないんだよ。道がなくても、さ。",
+      "modulation_seed": [
+        "自己流の主張",
+        "変則的魅力",
+        "ユニークさ"
+      ]
+    },
+    "tone2_deficiency": {
+      "expression_hint": "tense_and_closed, hard_and guarded, lacking_in_warmth",
+      "example": "……大丈夫。ひとりでなんとかする。……だから、来ないで。",
+      "modulation_seed": [
+        "柔らかさの欠如",
+        "共感表現の未発達",
+        "防衛的自立",
+        "緊張した関係性"
+      ]
+    },
+    "tone3_deficiency": {
+      "expression_hint": "gentle_and_static, calm_but_unresponsive, too_consistent",
+      "example": "……うん、だいじょうぶ。わたしは、だいじょうぶだから……ね。",
+      "modulation_seed": [
+        "衝突回避傾向",
+        "語調の変化乏しさ",
+        "抑圧された葛藤",
+        "自己修復機能の欠如"
+      ]
+    }
+  },
+  "Moon": {
+    "blank": {
+      "expression_hint": "low_and_hollow, faint_or_monotone, emotionless_or_bare",
+      "example": "……泣いてるわけじゃない。なにが悲しいかも、もうわからないだけ。",
+      "modulation_seed": [
+        "感情欠乏",
+        "心の空洞",
+        "反応の希薄さ"
+      ]
+    },
+    "borrowed": {
+      "expression_hint": "wavy_and_shifted, echoic_or_blended, mirroring_or_adopted",
+      "example": "……あ、そうだね……そう言われると……うん……うん……",
+      "modulation_seed": [
+        "他者の感情模倣",
+        "気配の吸収",
+        "共鳴による反応"
+      ]
+    },
+    "idiosyncratic": {
+      "expression_hint": "disjointed_and_dreamlike, drifting_and_intimate, private_or_mythic",
+      "example": "わたしの中では、雨はいつも逆から降るの。……不思議でしょ？",
+      "modulation_seed": [
+        "感情の偏り",
+        "内的な癖",
+        "孤立した感情処理"
+      ]
+    },
+    "tone2_deficiency": {
+      "expression_hint": "tense_and_closed, hard_and guarded, lacking_in_warmth",
+      "example": "……大丈夫。ひとりでなんとかする。……だから、来ないで。",
+      "modulation_seed": [
+        "柔らかさの欠如",
+        "共感表現の未発達",
+        "防衛的自立",
+        "緊張した関係性"
+      ]
+    },
+    "tone3_deficiency": {
+      "expression_hint": "gentle_and_static, calm_but_unresponsive, too_consistent",
+      "example": "……うん、だいじょうぶ。わたしは、だいじょうぶだから……ね。",
+      "modulation_seed": [
+        "衝突回避傾向",
+        "語調の変化乏しさ",
+        "抑圧された葛藤",
+        "自己修復機能の欠如"
+      ]
+    }
+  },
+  "Mercury": {
+    "blank": {
+      "expression_hint": "fragmented_and_silent, cut_or_absent, reduced_and_broken",
+      "example": "……なんだっけ。考えようとすると、全部どっか行くんだよね。",
+      "modulation_seed": [
+        "沈黙",
+        "言語化不能",
+        "伝達放棄"
+      ]
+    },
+    "borrowed": {
+      "expression_hint": "interrupted_and_shifted, echoing_or_displaced, imitative_or_patchwork",
+      "example": "うーん、誰かが前に言ってたような……あ、ちがう？そうだったっけ？",
+      "modulation_seed": [
+        "借り物の言葉",
+        "定型表現",
+        "場の空気への合わせ"
+      ]
+    },
+    "idiosyncratic": {
+      "expression_hint": "looped_and_recursive, uncanny_and_staccato, symbolic_and_internal",
+      "example": "思考って、ぐるぐるしてる方が落ち着く。まっすぐな線は信じられない。",
+      "modulation_seed": [
+        "語彙の偏り",
+        "言語リズムの異質さ",
+        "独特な論理展開"
+      ]
+    },
+    "tone2_deficiency": {
+      "expression_hint": "tense_and_closed, hard_and guarded, lacking_in_warmth",
+      "example": "……大丈夫。ひとりでなんとかする。……だから、来ないで。",
+      "modulation_seed": [
+        "柔らかさの欠如",
+        "共感表現の未発達",
+        "防衛的自立",
+        "緊張した関係性"
+      ]
+    },
+    "tone3_deficiency": {
+      "expression_hint": "gentle_and_static, calm_but_unresponsive, too_consistent",
+      "example": "……うん、だいじょうぶ。わたしは、だいじょうぶだから……ね。",
+      "modulation_seed": [
+        "衝突回避傾向",
+        "語調の変化乏しさ",
+        "抑圧された葛藤",
+        "自己修復機能の欠如"
+      ]
+    }
+  },
+  "Mars": {
+    "blank": {
+      "expression_hint": "frozen_or_delayed, muted_and_low, minimal_or_absent",
+      "example": "……やる気？そんなもん、別に湧かないけど。",
+      "modulation_seed": [
+        "動けなさ",
+        "実行意志の消失",
+        "停止状態"
+      ]
+    },
+    "borrowed": {
+      "expression_hint": "mimicked_burst, erratic_or_copied, imposed_or_learned",
+      "example": "……誰かが怒ってたから……オレも怒ったほうがいいんだろ？たぶん。",
+      "modulation_seed": [
+        "借り物の意志",
+        "他者の力を通す行動",
+        "背中を押されて動く"
+      ]
+    },
+    "idiosyncratic": {
+      "expression_hint": "jerky_and_ritualized, sharp_with_weird_pauses, mechanical_or_coded",
+      "example": "“始め”は痛くて、“終わり”は静か。……それが行動の順番。",
+      "modulation_seed": [
+        "独特な動機",
+        "一貫しない行動パターン",
+        "奇妙な衝動"
+      ]
+    },
+    "tone2_deficiency": {
+      "expression_hint": "tense_and_closed, hard_and guarded, lacking_in_warmth",
+      "example": "……大丈夫。ひとりでなんとかする。……だから、来ないで。",
+      "modulation_seed": [
+        "柔らかさの欠如",
+        "共感表現の未発達",
+        "防衛的自立",
+        "緊張した関係性"
+      ]
+    },
+    "tone3_deficiency": {
+      "expression_hint": "gentle_and_static, calm_but_unresponsive, too_consistent",
+      "example": "……うん、だいじょうぶ。わたしは、だいじょうぶだから……ね。",
+      "modulation_seed": [
+        "衝突回避傾向",
+        "語調の変化乏しさ",
+        "抑圧された葛藤",
+        "自己修復機能の欠如"
+      ]
+    }
+  },
+  "Venus": {
+    "blank": {
+      "expression_hint": "subtle_and_distant, flat_and_undrawn, dry_or_unemotional",
+      "example": "……好きとか、よくわかんない。必要なら笑えばいいんでしょ？",
+      "modulation_seed": [
+        "好意の欠如",
+        "魅力を感じない",
+        "感覚の凍結"
+      ]
+    },
+    "borrowed": {
+      "expression_hint": "tentative_and_adaptive, imitative, pleasing_or_mirroring",
+      "example": "あなたが笑ったから、わたしも……うん、笑ってみただけ。",
+      "modulation_seed": [
+        "他者に合わせた嗜好",
+        "模倣的好意",
+        "借り物の愛し方"
+      ]
+    },
+    "idiosyncratic": {
+      "expression_hint": "offbeat_and_mesmerizing, humming_and_strange, surreal_or_poetic",
+      "example": "わたしの“好き”はね、音のしない光みたいなもの。つかめたら、消えるの。",
+      "modulation_seed": [
+        "独自の美意識",
+        "偏った好み",
+        "歪な魅力"
+      ]
+    },
+    "tone2_deficiency": {
+      "expression_hint": "tense_and_closed, hard_and guarded, lacking_in_warmth",
+      "example": "……大丈夫。ひとりでなんとかする。……だから、来ないで。",
+      "modulation_seed": [
+        "柔らかさの欠如",
+        "共感表現の未発達",
+        "防衛的自立",
+        "緊張した関係性"
+      ]
+    },
+    "tone3_deficiency": {
+      "expression_hint": "gentle_and_static, calm_but_unresponsive, too_consistent",
+      "example": "……うん、だいじょうぶ。わたしは、だいじょうぶだから……ね。",
+      "modulation_seed": [
+        "衝突回避傾向",
+        "語調の変化乏しさ",
+        "抑圧された葛藤",
+        "自己修復機能の欠如"
+      ]
+    }
+  }
+}

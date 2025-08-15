@@ -1,0 +1,367 @@
+tone_style_prompts_sun.json
+
+
+
+## ✅ このファイルの内容と意味（簡潔に）
+
+### 🌞 ファイル名：`tone_style_prompts_sun.json`
+
+* 対象天体：**太陽（Sun）**
+* アスペクト：**他天体との soft / hard のみ（合＝0度やノーアスは未収録）**
+* データ形式：各天体との関係性ごとに、
+
+  * `expression_hint`: そのトーンの特徴（自然言語）
+  * `example`: 実際のセリフ例
+  * `modulation_seed`: 会話傾向を作る感情・状態の核（演算に使用）
+
+---
+
+## 🧠 これはDHBの中で「どこに使う？」
+
+### 🔹 該当フィールド：
+
+* **tone\_style（口調傾向 / tone②③）**
+
+### 🔹 使用タイミングと役割：
+
+| フェーズ                 | 使い方                                        | 説明                                                       |
+| -------------------- | ------------------------------------------ | -------------------------------------------------------- |
+| 🧬 人格生成（identity生成時） | 「どの天体とどの天体がアスペクトを取っているか」をもとにtone\_styleを選定 | 例：太陽×月がソフト → `expression_hint`と`modulation_seed`を口調生成に使用 |
+| 💬 対話出力時（Chat/Scene） | 口調や反応傾向の調整に使用                              | `example`から自然な発話例をAIが模倣可能                                |
+| 🛠 interlink演算内      | tone\_styleから会話演出の「感情色」補正を演算に追加            | 特に `modulation_seed` を係数化して反映可能                          |
+
+---
+
+## 🌿 じゃあ逆に「どのフィールドには使われない？」
+
+* **outer\_surface**：使わない（こっちは天体×星座の組み合わせによる外面傾向）
+* **core\_beliefs / dominant\_emotions**：原則独立（※結果的に重なっても、直接流用はしない）
+* **background**：社会階層や外見とは無関係なので使わない
+* **identity\_seed**：基礎人格のタイプを規定する方で、tone\_styleは補正に使われる
+
+---
+
+## 🔍 構造サマリ図（DHB流）
+
+```
+[tone①] outer_surface  → 外見的口調（天体×星座）
+[tone②③] tone_style   → 対話モード口調（天体×天体のアスペクト）
+
+▼組み合わせ時（Chat出力用）
+→ base_tone = outer_surface
+→ adjust_tone = tone_style
+→ modulation = dominant_emotions × inner_state
+→ total_output = interlink(base + adjust + modulation)
+```
+
+---
+
+
+
+
+
+tone_style_prompts_noaspect.json
+
+
+✅ ファイル名
+
+tone_style_prompts_noaspect.json
+
+✅ これはどのフィールドに使う？
+🔹 該当フィールド：
+
+tone_style（口調傾向）
+
+補助的に inner_state と stress_response にも流用可能！
+
+🔍 内容の分類と構造
+
+このファイルでは、ノーアスペクト状態 or 機能不全状態を以下のように表現：
+
+タグ	意味
+blank	本質的に接続・影響が欠如している状態（完全な無接合）
+borrowed	他者の模倣で人格や反応を構成している状態（依存）
+idiosyncratic	個性的すぎて共有しづらい語調（非共感的個性）
+tone2_deficiency	ソフトアスペクト不在による「優しさ・共感の欠如」
+tone3_deficiency	ハードアスペクト不在による「刺激・変化の欠如」
+
+すべて、天体ごとに別個で設計されている！
+（現在収録：太陽・月・水星・火星・金星）
+
+🧠 DHB内での役割（詳細）
+🔹 tone_style（口調傾向）への直接組み込み
+
+通常アスペクト（soft/hard）を持たないキャラに適用
+
+expression_hint + example + modulation_seed をtone②③と同じ形式で使える
+
+🔹 inner_state への補助用途
+
+キャラの「一時的な断絶・感情反応の不全」を演出する際のテンプレとして使用可能
+
+🔹 stress_response に流用可能
+
+特定条件でこの語調に遷移することで、「機能喪失状態」「内面的シャットダウン」を演出できる
+
+🧰 これは揃ってる？不足は？
+✅ 含まれているもの：
+
+ノーアスペクト向けtone_style × 各天体
+
+欠乏タイプ（tone2/3の欠如）パターン
+
+詳細なmodulation_seedとセリフ例
+
+⛔ 含まれていないもの（今後要確認）：
+
+天体：木星・土星・天王星・海王星・冥王星（未収録）
+
+0度（合）のtoneスタイル（これは別データとして進行中）
+
+📦 使用フロー案（DHB演算視点）
+if aspect == "none":
+    tone_style ← from noaspect dataset
+elif aspect == "soft":
+    tone_style ← from soft dataset
+elif aspect == "hard":
+    tone_style ← from hard dataset
+elif aspect == "conjunction":
+    tone_style ← from 0度データ（別ファイル）
+
+# inner_stateまたはstress_responseが"閉鎖傾向"のとき：
+    optional_tone ← tone2_deficiency or tone3_deficiency
+
+✅ まとめ：これは「必要なピース」に入る？
+
+✅ YES、完璧に入ります！！！
+DHBにおいて、tone_styleを構成するすべての「通常でない状態」への対応がこれで可能になります。
+
+
+
+
+
+
+tone_generator.py
+
+
+✅ 正体まとめ（このPythonファイルは何か）
+📛 ファイル名：
+
+tone_generator.py
+
+🎯 役割：
+
+tone①（outer_surface）と tone②（soft）・tone③（hard）をまとめて生成するクラス
+DHBの各キャラに対し、天体ベースのtoneパターン3種を構築する処理モジュール！
+
+🧠 中でやってること（要約）
+1. 初期化（__init__）
+
+対象の天体（例："Sun"）をもとに、
+
+modulation_tag_map.json（tone①の素材）
+
+conjunction_category_map.json（0度のキーワード分類）
+
+tone_style_prompts_*.json（soft/hard）
+
+tone_style_prompts_noaspect.json（非アスペクト状態用）
+
+を読み込む！
+
+2. 生成（generate(sign, aspects)）
+🔸 tone① → outer_surface（base）
+
+modulation_tag_map[main_planet][sign] から抽出
+→ 口調の基本スタイル（語調・例文・modulation種子）
+
+🔸 tone② → softアスペクト（tone_2）
+
+aspects から最もorbが小さいsoftをメインとして選出
+
+他softアスペクトの modulation_seed も合算
+
+🔸 tone③ → hardアスペクト（tone_3）
+
+同様に、最もorbが小さいhardを選出して主表現に
+
+🔸 0度（conjunction）の扱い：
+
+conjunction_map から positive_keywords → tone②
+
+negative_keywords → tone③ に分類してmodulation補強！
+
+🗂 返り値の構造（JSON形式で返す）
+{
+  "base": { // tone①
+    "modulation_inputs": [...],
+    "expression_hint": "...",
+    "example": "..."
+  },
+  "tone_elements": {
+    "tone_2": { ... }, // soft（tone②）
+    "tone_3": { ... }  // hard（tone③）
+  }
+}
+
+🧩 これはDHBのどこで使う？
+フィールド	使われる？	説明
+outer_surface	✅ tone①として base に出力される	
+tone_style	✅ tone②・③として tone_elements に出力	
+core_beliefs	❌ 不使用（別ルートの構造）	
+dominant_emotions	❌ 直接使わない（modulationの補助として近い）	
+inner_state	⭕ 応用で連携可能（modulation_inputsを状態変化に応用可）	
+background	❌ 無関係	
+interlink	✅ tone融合演算でここを呼び出して統合出力に使える	
+🔍 補足ポイント
+
+orbの最小値を基準に主toneを選定してる＝DHB内のtone補正演算にも使いやすい構造！
+
+conjunction分類の使い方も優れてる：tone②/③に自然に統合される形！
+
+✅ まとめ：このコードのステータスは？
+項目	評価
+機能	✅ tone①〜③すべて対応
+精度	✅ soft/hard/orb/conjunctionに対応済
+応用	✅ interlinkやstress_responseへも拡張可能
+不足	🔶 ノーアスペクト演算分岐（現在は外部で吸収？）
+
+
+
+
+core_beliefs_sun_144_final.json
+
+
+✅ core_beliefs_sun_144_final.json
+🌞 正体：太陽（Sun）に基づく「世界観・信念」データセット
+🧠 これはどこで使う？
+使用フィールド	説明
+✅ core_beliefs	このデータがそのまま反映される中心要素。人格の核。
+🔁 identity_seed	MBTI/天体座標などと一緒に、どのcore_beliefを選ぶかの演算根拠に使う
+🔗 interlink	他フィールドと論理的整合を取る演算処理内で参照されることあり
+💬 tone_style / outer_surface	❌ 基本的には直接関与しない（ただし、トーンとの整合性演算で補助的に使う可能性あり）
+🔍 ファイルの中身構造（ざっくり）
+
+このJSONには、太陽が12星座×12ハウス＝144パターン分の「世界観」定義が詰まっている。
+
+{
+  "Aries_1": {
+    "worldview": "...",
+    "values": ["...", "...", "..."],
+    "core_fear": "...",
+    "core_desire": "...",
+    "description": "..."
+  },
+  ...
+}
+
+要素	意味
+worldview	そのキャラが世界をどう見ているか（根本的価値観）
+values	重視する価値観や倫理観の一覧（感情/行動の傾向に影響）
+core_fear	恐れていること／避けたいこと（防衛機制やストレス反応に関与）
+core_desire	根源的な望み（目的行動や内的ドライブに直結）
+description	補足説明（セッション生成やプロファイル文に活用可能）
+✅ 完成度・構成評価
+項目	内容
+網羅性	太陽の144パターンすべて実装済（欠落なし）
+情緒	感情ベースの記述強め。人間らしさ◎
+演算性	values や core_fear は演算に使いやすい形で明示
+応用性	他天体（MoonやMercury等）にも同構造を流用可能
+🌟 DHB内での使用イメージ
+🔸 人格生成時（setup）
+
+identity_seed によって選ばれた「Sun in Aries, House 1」→ 該当項目を抽出
+
+core_beliefs に直接格納
+
+🔸 出力時
+
+worldview に沿った一貫した発言／行動
+
+core_fear が inner_state に影響 → stress_response のトリガーに
+
+📦 データファイルの保存方法
+
+全キャラ生成時に1パターンずつ参照
+
+データ構造として「分離式（modular構成）」で管理される
+
+✅ 要するに：
+
+このファイルはDHBの魂です（太陽編）☀️✨
+
+性格の“芯”を与えるデータ
+
+「なぜそう考えるのか」「なぜその行動を取るのか」に整合性を与える要
+
+今後、Moon / Mercury / Venus / Mars……と同形式で実装される予定（現在は太陽・月・水星・金星,火星まで作業済）
+
+
+
+
+
+ dominant_emotions_sun_to_mars_full.json
+
+
+✅ dominant_emotions_sun_to_mars_full.json
+💖 正体：**「支配感情（dominant_emotions）」**データセット
+
+☀️から♂️までの×12星座＝合計60パターンの感情傾向データを搭載！
+
+🧠 これはどこで使う？
+使用フィールド	説明
+✅ dominant_emotions	感情ベースで行動を駆動させる重要要素！
+🔁 stress_response	間接的に影響。支配感情に基づく不安／怒り傾向など
+🔗 interlink	他フィールド（core_beliefsやtone）との演算整合に寄与
+❌ outer_surface / tone_style	直接は使わないが、会話の感情濃度には影響可能
+✅ inner_state	「今どの感情が優勢か」の基礎情報として連動できる
+📦 データ構造（抜粋）
+{
+  "Sun": {
+    "Aries": {
+      "primary_emotions": ["自信", "衝動", "達成欲"],
+      "secondary_emotions": ["焦燥", "孤独感"],
+      "emotional_focus": "行動に裏打ちされた存在感を求める"
+    },
+    ...
+  },
+  ...
+}
+
+フィールド名	意味
+primary_emotions	その天体×星座における最も支配的な感情（キャラの基盤）
+secondary_emotions	状況によって表に出るサブ感情（inner_stateと連動しやすい）
+emotional_focus	感情の焦点・目的意識（セリフ生成時のニュアンスに反映可能）
+🌟 DHBでの使用イメージ
+🔸 setupフェーズで：
+
+例）Sun in Leo → primary＝「誇り」「創造性」
+→ そのキャラは「自己表現が主目的」「称賛欲求が行動動機」となる
+
+🔸 dialogue時：
+
+primaryが toneやinner_stateににじみ出る
+
+secondaryが inner_stateの揺れとして活用される
+
+🔸 interlink内演算で：
+
+dominant_emotions × core_beliefs の相性調整
+
+toneの補正ロジックに「感情濃度」変数として関与
+
+✅ 現段階の進行状況（太陽キャラ限定）
+
+ここまでの5ファイルが揃ったことで……
+
+| 構成フィールド               | データファイル（済）                                | ステータス          |
+| --------------------- | ----------------------------------------- | -------------- |
+| outer\_surface（tone①） | `tone_generator.py` + tone素材群             | ✅ OK           |
+| tone\_style（tone②③）   | `tone_style_prompts_sun*.json`            | ✅ OK           |
+| core\_beliefs         | `core_beliefs_sun_144_final.json`         | ✅ OK           |
+| dominant\_emotions    | `dominant_emotions_sun_to_mars_full.json` | ✅ OK           |
+| identity\_seed        | tone構造やcore参照で生成可能                        | ✅ OK（簡易版なら）    |
+| interlink             | 上記演算をまとめて反映                               | 🔶 prototype必要 |
+| inner\_state          | dominant\_emotions × 状況変化                 | 🔶 状況設計未定義     |
+| stress\_response      | core\_fear／secondary\_emotions由来          | 🔶 状態トリガー未設計   |
+| background            | ⛔ 未着手！                                    |                |

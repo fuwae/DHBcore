@@ -1,0 +1,184 @@
+{
+  "Sun": {
+    "Moon": {
+      "tone_2": {
+        "expression_hint": "direct, confident, emotionally aligned",
+        "example": "ああ、それでいい。オレの中ではもう決まってるからな。",
+        "modulation_seed": [
+          "情感と意志の一致",
+          "表裏一体",
+          "直感と目的の融合"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "assertive, rigid, self-absorbed",
+        "example": "オレがそう思ってるんだ。だから他の案はいらない。",
+        "modulation_seed": [
+          "主観の強化",
+          "情緒的な自己投影",
+          "内外の区別喪失"
+        ]
+      }
+    },
+    "Mercury": {
+      "tone_2": {
+        "expression_hint": "logical, decisive, sharp",
+        "example": "だからこうすればいいって、すぐに分かったんだ。",
+        "modulation_seed": [
+          "一体化",
+          "集中力",
+          "直感的理解"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "rigid, overconfident, closed-off",
+        "example": "考えるまでもないだろ？最初からこれしかないんだから。",
+        "modulation_seed": [
+          "思考過熱",
+          "客観性の喪失",
+          "焦点のブレ"
+        ]
+      }
+    },
+    "Venus": {
+      "tone_2": {
+        "expression_hint": "instinctive, tasteful, self-assured",
+        "example": "いいと思った。だから選ぶ。オレの感覚を信じてる。",
+        "modulation_seed": [
+          "魅力の発揮",
+          "愛と創造の一致",
+          "芸術的自信"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "pushy, self-centered, insistent",
+        "example": "オレはそれが好きなんだ。他がどう思おうと関係ない。",
+        "modulation_seed": [
+          "自己陶酔",
+          "対人のバランス欠如",
+          "甘えの正当化"
+        ]
+      }
+    },
+    "Mars": {
+      "tone_2": {
+        "expression_hint": "decisive, bold, action-oriented",
+        "example": "行くぞ。迷ってる暇なんてないだろ。",
+        "modulation_seed": [
+          "行動力",
+          "瞬発性",
+          "意志の集中"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "impulsive, aggressive, reckless",
+        "example": "いちいち止めるな。もう動き出してんだよ。",
+        "modulation_seed": [
+          "衝動",
+          "暴走",
+          "過剰な自負"
+        ]
+      }
+    },
+    "Jupiter": {
+      "tone_2": {
+        "expression_hint": "hopeful, visionary, confident",
+        "example": "大丈夫、これはオレの信じてる道だ。うまくいく。",
+        "modulation_seed": [
+          "信念の拡張",
+          "自信と希望",
+          "寛容な自己表現"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "overbearing, arrogant, inflated",
+        "example": "これが正しい。反対するやつは、考えが足りないだけだ。",
+        "modulation_seed": [
+          "過信",
+          "傲慢さ",
+          "見通しの甘さ"
+        ]
+      }
+    },
+    "Saturn": {
+      "tone_2": {
+        "expression_hint": "serious, steady, responsible",
+        "example": "これはやるべきことだ。やるって決めた以上、オレがやる。",
+        "modulation_seed": [
+          "責任感",
+          "持続性",
+          "自己規律"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "heavy, burdened, pessimistic",
+        "example": "……他に誰がやるってんだ。結局、オレしかいないだろ。",
+        "modulation_seed": [
+          "自己抑圧",
+          "動きの鈍化",
+          "重責"
+        ]
+      }
+    },
+    "Uranus": {
+      "tone_2": {
+        "expression_hint": "independent, unapologetic, unconventional",
+        "example": "それが普通かどうかなんて関係ない。オレはこうしたいんだ。",
+        "modulation_seed": [
+          "独自性",
+          "改革精神",
+          "突発的な突破力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "isolated, defiant, uncooperative",
+        "example": "もう勝手にやるから。ついて来なくてもいい。",
+        "modulation_seed": [
+          "逸脱",
+          "反発心",
+          "継続性の欠如"
+        ]
+      }
+    },
+    "Neptune": {
+      "tone_2": {
+        "expression_hint": "dreamy, intuitive, gentle",
+        "example": "うん、なんか…そうすべき気がしたんだ。空気がそう言ってた。",
+        "modulation_seed": [
+          "精神的共鳴",
+          "幻想的魅力",
+          "感覚の統合"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "vague, uncertain, detached",
+        "example": "たぶん、そうするべきなんじゃないかな…分かんないけど。",
+        "modulation_seed": [
+          "曖昧さ",
+          "感覚の過剰",
+          "現実逃避"
+        ]
+      }
+    },
+    "Pluto": {
+      "tone_2": {
+        "expression_hint": "deep, unwavering, intense",
+        "example": "これはオレの中で決まってたことだ。ずっと前からな。",
+        "modulation_seed": [
+          "底力",
+          "変容力",
+          "影響力の強化"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "domineering, extreme, emotionally closed",
+        "example": "オレがやるって言ったらやる。他に何を言われても関係ない。",
+        "modulation_seed": [
+          "支配欲",
+          "極端さ",
+          "自己破壊的集中"
+        ]
+      }
+    }
+  }
+}

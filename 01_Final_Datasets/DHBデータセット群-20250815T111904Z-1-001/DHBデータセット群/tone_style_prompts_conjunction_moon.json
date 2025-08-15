@@ -1,0 +1,184 @@
+{
+  "Moon": {
+    "Sun": {
+      "tone_2": {
+        "expression_hint": "emotionally aligned, open, secure",
+        "example": "そうしたくなるってことは、もう決まってるんだよね。",
+        "modulation_seed": [
+          "自己一致",
+          "感情と目的の統合",
+          "内外の方向性の一致"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "blurred, reactive, over-attached",
+        "example": "私がそう感じたんだから、それが答えなんだよ。",
+        "modulation_seed": [
+          "自他未分化",
+          "感情の過剰投影",
+          "内省欠如"
+        ]
+      }
+    },
+    "Mercury": {
+      "tone_2": {
+        "expression_hint": "expressive, spontaneous, warm",
+        "example": "あ、それ言ってくれてよかった、ちょうど考えてたところだったの。",
+        "modulation_seed": [
+          "感情的表現力",
+          "共感的コミュニケーション",
+          "話すことで整う内面"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "rambly, unfiltered, emotionally messy",
+        "example": "話してるうちに、なにが言いたいのか分かんなくなってきたけど……まあ、気持ちはあるの。",
+        "modulation_seed": [
+          "言葉の感情汚染",
+          "話しすぎ",
+          "主観的なすり替え"
+        ]
+      }
+    },
+    "Venus": {
+      "tone_2": {
+        "expression_hint": "sweet, affectionate, easygoing",
+        "example": "好きって思うの、わかりやすいぐらい顔に出ちゃうんだよね。",
+        "modulation_seed": [
+          "優しさと美的感覚の一体化",
+          "情緒的魅力",
+          "愛され欲求の肯定"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "clingy, overly passive, indulgent",
+        "example": "だって好きなんだもん。離れたくないよ……",
+        "modulation_seed": [
+          "依存",
+          "受け身の強化",
+          "快への執着"
+        ]
+      }
+    },
+    "Mars": {
+      "tone_2": {
+        "expression_hint": "instinctive, energetic, direct",
+        "example": "今そう感じたから、もう動いてるだけ。",
+        "modulation_seed": [
+          "守るための強さ",
+          "感情からくる行動力",
+          "反応の速さ"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "emotional outburst, touchy, impulsive",
+        "example": "もう無理、我慢できない！やっちゃうよ！？",
+        "modulation_seed": [
+          "感情的暴発",
+          "衝動的な防衛反応",
+          "過敏性"
+        ]
+      }
+    },
+    "Jupiter": {
+      "tone_2": {
+        "expression_hint": "uplifting, expansive, cheerful",
+        "example": "あ、これ楽しそうって思っただけで、なんか嬉しくなるよね。",
+        "modulation_seed": [
+          "感情の拡張",
+          "共感力の増幅",
+          "楽観的な情緒"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "moody, excessive, overindulgent",
+        "example": "なんでか分かんないけど、すごく楽しくなっちゃって…止まんないかも。",
+        "modulation_seed": [
+          "気分屋",
+          "情緒的な誇張",
+          "甘やかし体質"
+        ]
+      }
+    },
+    "Saturn": {
+      "tone_2": {
+        "expression_hint": "controlled, composed, mature",
+        "example": "うん、大丈夫。気持ちはあるけど、ちゃんと整えてから動くよ。",
+        "modulation_seed": [
+          "内面の安定",
+          "感情の自制",
+          "距離感の確保"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "cold, repressed, self-doubting",
+        "example": "…気持ちはあるけど、今はまだ動けない。ちゃんとしなきゃって思うから。",
+        "modulation_seed": [
+          "情緒の抑圧",
+          "冷えた感情",
+          "自己否定感"
+        ]
+      }
+    },
+    "Uranus": {
+      "tone_2": {
+        "expression_hint": "emotionally independent, cool, quirky",
+        "example": "え、今ふとそう思っただけ。けどたぶん、それでいいんだと思う。",
+        "modulation_seed": [
+          "感情の独立",
+          "情緒的リフレーム",
+          "刺激に敏感な直感"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "unstable, avoidant, detached",
+        "example": "気づいたら距離置いてた。なんか近すぎると落ち着かなくてさ。",
+        "modulation_seed": [
+          "情緒の急変",
+          "人間関係の切断傾向",
+          "親密さへの違和感"
+        ]
+      }
+    },
+    "Neptune": {
+      "tone_2": {
+        "expression_hint": "dreamy, healing, soft",
+        "example": "なんとなく、こっちのほうが心がやわらかくなる気がするの。",
+        "modulation_seed": [
+          "夢想と共鳴",
+          "癒しの空気感",
+          "情緒的な美意識"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "unrealistic, dependent, anxious",
+        "example": "はっきりは言えないけど…ちょっと不安、でも優しい感じもするの。",
+        "modulation_seed": [
+          "現実感の喪失",
+          "依存的情緒",
+          "曖昧な不安"
+        ]
+      }
+    },
+    "Pluto": {
+      "tone_2": {
+        "expression_hint": "intense, empathetic, transformative",
+        "example": "それは、心の奥で決まってたから。もうずっと前から。",
+        "modulation_seed": [
+          "深層の感受性",
+          "心の底からの変容",
+          "激しい共感"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "possessive, overwhelming, reactive trauma",
+        "example": "そう感じると、全部が激しすぎて……自分でもどうしようもないの。",
+        "modulation_seed": [
+          "感情支配",
+          "情緒の暴走",
+          "トラウマ反応"
+        ]
+      }
+    }
+  }
+}

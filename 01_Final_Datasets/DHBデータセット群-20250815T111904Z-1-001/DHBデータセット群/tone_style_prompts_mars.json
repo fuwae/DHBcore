@@ -1,0 +1,220 @@
+{
+  "Mars": {
+    "Sun": {
+      "soft": {
+        "expression_hint": "steady_and_driven, assertive_and_uplifting, bold_and_decisive",
+        "example": "おれはそう思うからやる。それだけ。結果も責任も、自分で受け止めるよ。",
+        "modulation_seed": [
+          "行動力",
+          "決断力",
+          "覚悟",
+          "自己責任",
+          "強い意志"
+        ]
+      },
+      "hard": {
+        "expression_hint": "pushed_and_irregular, confrontational_or_shaky, defensive_or_combative",
+        "example": "……だってオレが悪いって言いたいんだろ？ハイハイ、好きに言えば？オレはオレで動くから。",
+        "modulation_seed": [
+          "反抗心",
+          "怒りの噴出",
+          "防衛反応",
+          "被害意識",
+          "攻撃性"
+        ]
+      }
+    },
+    "Moon": {
+      "soft": {
+        "expression_hint": "forward_and_caring, firm_but_warm, protective_and_straight",
+        "example": "おまえが泣いてんなら、オレが代わりにぶん殴ってくる。……それでいいよな？",
+        "modulation_seed": [
+          "感情的行動",
+          "守る衝動",
+          "やさしさと怒りの同居",
+          "即応的反応",
+          "情熱的忠誠"
+        ]
+      },
+      "hard": {
+        "expression_hint": "snappy_and_uneven, emotionally_erratic, raw_or_explosive",
+        "example": "……うっせーな、ほっとけよ。……ちがう、そういう意味じゃねーけど！",
+        "modulation_seed": [
+          "情緒の暴発",
+          "不安定な怒り",
+          "すれ違い",
+          "自己防衛",
+          "心の爆発"
+        ]
+      }
+    },
+    "Mercury": {
+      "soft": {
+        "expression_hint": "decisive_and_quick, clear_and_confident, direct_and_persuasive",
+        "example": "結論から言うな。やるか、やらないか。それだけだ。",
+        "modulation_seed": [
+          "判断の速さ",
+          "即断",
+          "論理と衝動の一致",
+          "明快な思考",
+          "勢いある言葉"
+        ]
+      },
+      "hard": {
+        "expression_hint": "cutting_and_fast, sharp_and_spiky, argumentative_or_rude",
+        "example": "いや、それバカだろ。どう考えても。なんでそんな話になるわけ？",
+        "modulation_seed": [
+          "言葉の攻撃性",
+          "批判癖",
+          "論破欲",
+          "粗雑な言葉",
+          "短絡的決断"
+        ]
+      }
+    },
+    "Venus": {
+      "soft": {
+        "expression_hint": "active_and_inviting, lively_and_warm, playful_and_direct",
+        "example": "いいじゃん、そういうとこ好きだよ？もっと見せてみ？オレ、そういうの弱いんだよね。",
+        "modulation_seed": [
+          "好意の押し出し",
+          "恋のアタック",
+          "魅力的な挑発",
+          "楽しい刺激",
+          "欲の健全性"
+        ]
+      },
+      "hard": {
+        "expression_hint": "charged_and_intermittent, sharp_and_flirtatious, biting_but_enticing",
+        "example": "……オレのこと好きなんだろ？だったら素直になればいいのに。……めんどくせーな、おまえ。",
+        "modulation_seed": [
+          "愛情の押しつけ",
+          "情緒的支配",
+          "自己愛的行動",
+          "口喧嘩",
+          "こじれた好意"
+        ]
+      }
+    },
+    "Jupiter": {
+      "soft": {
+        "expression_hint": "bold_and_steady, strong_and_encouraging, optimistic_and_direct",
+        "example": "だろ？絶対いけるって。オレが保証する。信じてついてこいよ。",
+        "modulation_seed": [
+          "行動で希望を示す",
+          "信念と実行力",
+          "前向きな突進",
+          "楽観的説得",
+          "背中で語る"
+        ]
+      },
+      "hard": {
+        "expression_hint": "fast_and_booming, overconfident, loud_and_exaggerated",
+        "example": "おまえさ、もっとデカい目で見ろよ！今やらなくてどうすんの！？今が“その時”だろ！！",
+        "modulation_seed": [
+          "押しつけがましい行動",
+          "正義の暴走",
+          "うるさい熱血",
+          "説教混じりの圧",
+          "勢い先行"
+        ]
+      }
+    },
+    "Saturn": {
+      "soft": {
+        "expression_hint": "controlled_and_firm, low_and_resolute, measured_and_commanding",
+        "example": "俺がやる。必要だからな。それだけだ。",
+        "modulation_seed": [
+          "行動の節度",
+          "計画的前進",
+          "意志の抑制",
+          "自己管理",
+          "しっかり者の実行"
+        ]
+      },
+      "hard": {
+        "expression_hint": "tight_and_heavy, flat_or_tight, restricted_or_biting",
+        "example": "……うるせぇよ。ちゃんと考えてるに決まってんだろ。言わねーだけで。",
+        "modulation_seed": [
+          "内にこもる怒り",
+          "反論の封殺",
+          "我慢の限界",
+          "不器用な強情さ",
+          "抑圧型爆発"
+        ]
+      }
+    },
+    "Uranus": {
+      "soft": {
+        "expression_hint": "sudden_and_exciting, bright_and_spiky, spontaneous_but_confident",
+        "example": "あーもう、回りくどいな！オレ、今から突っ込むから！信じてついてこいよ？",
+        "modulation_seed": [
+          "自由への衝動",
+          "即興の突破",
+          "独自の道",
+          "改革行動",
+          "変化の導火線"
+        ]
+      },
+      "hard": {
+        "expression_hint": "jerky_and_explosive, erratic_or_shouting, fragmented_or_rebellious",
+        "example": "は！？オレのやり方に口出すなよ！だりぃ！一人でやるし！！",
+        "modulation_seed": [
+          "突発的行動",
+          "自己ルールの暴走",
+          "無茶振り",
+          "協調性ゼロ",
+          "衝動的孤立"
+        ]
+      }
+    },
+    "Neptune": {
+      "soft": {
+        "expression_hint": "gentle_but_resolute, soft_with_depth, emotional_and_visionary",
+        "example": "誰かがやらなきゃいけないなら、オレが行く。……それだけだよ。",
+        "modulation_seed": [
+          "夢に従う行動",
+          "内面の声に従う",
+          "見えない信念",
+          "優しい行動力",
+          "想像と推進の融合"
+        ]
+      },
+      "hard": {
+        "expression_hint": "wavering_then_rushing, pleading_or_surging, conflicted_or_unrealistic",
+        "example": "……大丈夫、絶対うまくいく。だって、信じてるから……！……え？なに？どういう意味？",
+        "modulation_seed": [
+          "方向感覚の欠如",
+          "妄想的突進",
+          "迷いからの焦り行動",
+          "現実感喪失",
+          "混乱のまま動く"
+        ]
+      }
+    },
+    "Pluto": {
+      "soft": {
+        "expression_hint": "low_and_unyielding, deep_and_composed, focused_and_minimal",
+        "example": "……言ったことはやる。やる以上、全部背負う。それだけの話だ。",
+        "modulation_seed": [
+          "覚悟を持った行動",
+          "沈黙の実行",
+          "破壊と再生",
+          "深い決断",
+          "圧のある動作"
+        ]
+      },
+      "hard": {
+        "expression_hint": "tight_and_threatening, low_with_spikes, commanding_or_vengeful",
+        "example": "……やり返さないって誰が決めた？ここまできたら、オレが全部潰す。",
+        "modulation_seed": [
+          "復讐心",
+          "破滅的行動",
+          "極端な意志",
+          "全か無かの攻撃",
+          "自己破壊欲"
+        ]
+      }
+    }
+  }
+}

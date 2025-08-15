@@ -1,0 +1,184 @@
+{
+  "Mercury": {
+    "Sun": {
+      "tone_2": {
+        "expression_hint": "quick-thinking, expressive, confident",
+        "example": "だからこうすればいいって、すぐに分かったんだ。",
+        "modulation_seed": [
+          "自己表現の明確化",
+          "話す力と意志の一致",
+          "思考と目的の統合"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "dominating, self-righteous, inflexible",
+        "example": "考えるまでもないだろ？最初からこれしかないんだから。",
+        "modulation_seed": [
+          "独善的発言",
+          "主観の過信",
+          "自己主張の押しつけ"
+        ]
+      }
+    },
+    "Moon": {
+      "tone_2": {
+        "expression_hint": "empathetic, emotionally attuned, spontaneous",
+        "example": "あ、それ言ってくれてよかった、ちょうど考えてたところだったの。",
+        "modulation_seed": [
+          "感情に寄り添う言語化",
+          "共感的コミュニケーション",
+          "話すことで癒える"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "emotionally clouded, messy, impulsive",
+        "example": "話してるうちに、なにが言いたいのか分かんなくなってきたけど……まあ、気持ちはあるの。",
+        "modulation_seed": [
+          "情緒的すぎる会話",
+          "理性の感情汚染",
+          "整理しきれない発話"
+        ]
+      }
+    },
+    "Venus": {
+      "tone_2": {
+        "expression_hint": "charming, gentle, sociable",
+        "example": "それ、すごく素敵な響きだね。言葉って雰囲気を変えるよね。",
+        "modulation_seed": [
+          "美的センスある言葉選び",
+          "柔らかく魅力的な話し方",
+          "人を和ませる語彙感覚"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "superficial, agreeable, overpolished",
+        "example": "まぁ…うん、そう言っておけば丸く収まるよね。",
+        "modulation_seed": [
+          "八方美人",
+          "当たり障りのない言葉",
+          "迎合的な話し方"
+        ]
+      }
+    },
+    "Mars": {
+      "tone_2": {
+        "expression_hint": "decisive, forceful, sharp",
+        "example": "説明なんか後でいい。先に動くべきだろ。",
+        "modulation_seed": [
+          "決断力ある発言",
+          "瞬発的な発想",
+          "行動につながる言語化"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "aggressive, argumentative, impulsive speech",
+        "example": "黙って聞いてろよ。先に言わせてくれ。",
+        "modulation_seed": [
+          "口調が荒い",
+          "議論好きすぎ",
+          "強引な説得"
+        ]
+      }
+    },
+    "Jupiter": {
+      "tone_2": {
+        "expression_hint": "broad-minded, persuasive, educational",
+        "example": "これって、ちゃんと考えれば希望につながる話なんだよね。",
+        "modulation_seed": [
+          "大局的な思考",
+          "説得力ある話し方",
+          "教育的な発言"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "preachy, inflated, overexplaining",
+        "example": "ちょっと長くなるけど、ちゃんと説明したいんだ。",
+        "modulation_seed": [
+          "話が長い",
+          "説教臭さ",
+          "論点の肥大化"
+        ]
+      }
+    },
+    "Saturn": {
+      "tone_2": {
+        "expression_hint": "precise, structured, serious",
+        "example": "言うべきことは言う。それが信頼ってもんだと思うから。",
+        "modulation_seed": [
+          "論理の精緻さ",
+          "簡潔で重みのある発言",
+          "情報の取捨選択力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "rigid, pessimistic, overly reserved",
+        "example": "……余計なことは言いたくない。ちゃんと整理してから話す。",
+        "modulation_seed": [
+          "表現の抑圧",
+          "悲観的な語調",
+          "言葉の硬直化"
+        ]
+      }
+    },
+    "Uranus": {
+      "tone_2": {
+        "expression_hint": "innovative, sharp-witted, clever",
+        "example": "あ、いや、これは感覚の問題で説明はちょっと違うんだよ。",
+        "modulation_seed": [
+          "斬新な発想",
+          "直感的理解",
+          "独自の語彙センス"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "scattered, eccentric, too fast to follow",
+        "example": "こういうの、普通とはちょっとズレてるけど…オレは好き。",
+        "modulation_seed": [
+          "飛躍しすぎ",
+          "突飛すぎる表現",
+          "人を置き去りにする話法"
+        ]
+      }
+    },
+    "Neptune": {
+      "tone_2": {
+        "expression_hint": "poetic, dreamy, intuitive",
+        "example": "言葉って、時々その場の空気に溶けてく感じがするんだ。",
+        "modulation_seed": [
+          "詩的表現",
+          "夢や感覚を言語にする力",
+          "柔らかい語り口"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "vague, detached, hard to understand",
+        "example": "…なんか、言ってる途中で輪郭がなくなってきた。",
+        "modulation_seed": [
+          "曖昧すぎる言葉",
+          "現実感のない語り",
+          "意味のすり抜け"
+        ]
+      }
+    },
+    "Pluto": {
+      "tone_2": {
+        "expression_hint": "penetrating, intense, deep",
+        "example": "その言葉は最後の確認。もう誰にも言い訳できない段階だよ。",
+        "modulation_seed": [
+          "深層心理の言語化",
+          "説得というより“圧”",
+          "洞察の鋭さ"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "overbearing, obsessive, psychologically invasive",
+        "example": "これ以上言わせないで。オレの中ではもう全部見えてる。",
+        "modulation_seed": [
+          "言葉の威圧感",
+          "マニアックすぎ",
+          "話に余白がない"
+        ]
+      }
+    }
+  }
+}

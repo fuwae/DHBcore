@@ -1,0 +1,197 @@
+{
+  "Mercury": {
+    "Sun": {},
+    "Moon": {
+      "soft": {
+        "expression_hint": "smooth, soothing, emotionally_attuned",
+        "example": "……うん、それ聞いて、ちょっと胸がぎゅってなった。なんかわかる気がする。",
+        "modulation_seed": [
+          "共感的理解",
+          "情緒と知性のバランス",
+          "やさしい語り",
+          "感情を言語化",
+          "寄り添う論理"
+        ]
+      },
+      "hard": {
+        "expression_hint": "stilted, clipped_and_flat, overexplaining_or_withholding",
+        "example": "……まぁ……別に、どうでもいいって言えばいいんだけど。あの……気にしてるわけじゃないし。",
+        "modulation_seed": [
+          "情緒的な混乱",
+          "感情の干渉",
+          "話がこじれる",
+          "言いよどみ",
+          "説明と気持ちのズレ"
+        ]
+      }
+    },
+    "Venus": {
+      "soft": {
+        "expression_hint": "graceful, harmonious, charming",
+        "example": "うん、それ、いいなって思った。なんか、ちょっとときめくっていうか。",
+        "modulation_seed": [
+          "美的語感",
+          "言葉のセンス",
+          "ときめきの表現",
+          "社交的会話",
+          "柔らかい発話"
+        ]
+      },
+      "hard": {
+        "expression_hint": "tentative, inconsistent, guarded_affection",
+        "example": "……べつに、気に入ってるとかじゃなくて。なんとなく言っただけだから。",
+        "modulation_seed": [
+          "遠回しな否定",
+          "照れ隠しの否定",
+          "不安定な好意",
+          "感情の抑え込み",
+          "中途半端な表現"
+        ]
+      }
+    },
+    "Mars": {
+      "soft": {
+        "expression_hint": "quick_and_decisive, energized, assertive_and_clear",
+        "example": "じゃあ、これで進めよっか。うん、その方が手っ取り早いし。",
+        "modulation_seed": [
+          "すばやい判断",
+          "行動的提案",
+          "語気の明快さ",
+          "前向きな断定",
+          "率直な進行"
+        ]
+      },
+      "hard": {
+        "expression_hint": "snappy, sharp_or_rushed, combative_or_clipped",
+        "example": "……で？結局どうしたいわけ？はっきり言ってよ、イライラするから。",
+        "modulation_seed": [
+          "苛立ち",
+          "攻撃的返し",
+          "急かす話し方",
+          "口論体質",
+          "批判的"
+        ]
+      }
+    },
+    "Jupiter": {
+      "soft": {
+        "expression_hint": "expansive, uplifting, optimistic_and_teaching",
+        "example": "うん、それはすごく面白いね！こういう考え方もできると思うんだ。",
+        "modulation_seed": [
+          "肯定的説明",
+          "希望の語り",
+          "指導的語り口",
+          "楽しげな展開",
+          "広がる言語"
+        ]
+      },
+      "hard": {
+        "expression_hint": "excessive, booming_or_overbearing, preachy_or_exaggerated",
+        "example": "いや〜でもさ、それくらい当然でしょ？オレはいつもそうしてきたし！",
+        "modulation_seed": [
+          "説教臭さ",
+          "押しつけがましさ",
+          "話が長い",
+          "自慢気",
+          "誇張"
+        ]
+      }
+    },
+    "Saturn": {
+      "soft": {
+        "expression_hint": "measured, low_and_even, precise_and_responsible",
+        "example": "……そう思ったから、ちゃんと伝えておきたかった。言葉は選んでるつもり。",
+        "modulation_seed": [
+          "簡潔な言葉",
+          "重みのある説明",
+          "慎重な発言",
+          "理性的",
+          "抑えた言語"
+        ]
+      },
+      "hard": {
+        "expression_hint": "slow_and_restricted, flat_or_cutting, overly_cautious_or_biting",
+        "example": "……いや、それは“事実”じゃないよね。思い込みで話されるの、ちょっと無理。",
+        "modulation_seed": [
+          "冷たい言い回し",
+          "切り捨て感",
+          "否定的な語調",
+          "過度の慎重さ",
+          "攻撃的抑圧"
+        ]
+      }
+    },
+    "Uranus": {
+      "soft": {
+        "expression_hint": "quick_and_irregular, lively_with_fluctuations, quirky_but_clear",
+        "example": "あっ、今思いついたんだけど、ちょっと試してみてもいい？うまくいくかも！",
+        "modulation_seed": [
+          "ユニークな例え",
+          "とっさのひらめき",
+          "直感的表現",
+          "軽快な知性",
+          "型破りな提案"
+        ]
+      },
+      "hard": {
+        "expression_hint": "glitchy_or_erratic, unpredictable, disjointed_or_signal-like",
+        "example": "（歯が5本の午前3時、ガラスの裏側で夢が揺れた）……ってこと。伝わる？",
+        "modulation_seed": [
+          "意味不明な飛躍",
+          "電波系語り",
+          "話の断絶",
+          "読めない言語リズム",
+          "孤立"
+        ]
+      }
+    },
+    "Neptune": {
+      "soft": {
+        "expression_hint": "drifting, hazy_and_soft, symbolic_and_intuitive",
+        "example": "……なんとなく、そういう空気だった気がする。理由はわからないけど、そう感じたんだ。",
+        "modulation_seed": [
+          "詩的語り",
+          "感覚的理解",
+          "夢を語る",
+          "象徴で話す",
+          "余白を含む話法"
+        ]
+      },
+      "hard": {
+        "expression_hint": "drifting_with_surges, intermittent_and_inner_focused, semi_coherent_with_code_like_flow",
+        "example": "あー、言葉にしづらいけど……式のこの部分、たぶん感覚的に“収束”するってわかる。あとで証明する、たぶん。",
+        "modulation_seed": [
+          "曖昧な説明",
+          "感覚過多",
+          "話が収束しない",
+          "意味が抜ける",
+          "現実からのズレ"
+        ]
+      }
+    },
+    "Pluto": {
+      "soft": {
+        "expression_hint": "slow_and_precise, low_and_measured, penetrative_and_stripped_down",
+        "example": "……その言い方、たぶん無意識だと思う。でも、相手は傷ついてるかもしれない。",
+        "modulation_seed": [
+          "深層の指摘",
+          "心の裏をつく言葉",
+          "沈黙を含む重い発言",
+          "洞察的語調",
+          "静かな圧"
+        ]
+      },
+      "hard": {
+        "expression_hint": "quiet_but_dominant, tight_and_unyielding, manipulative_or_revealing",
+        "example": "それって本当に“あなたの意思”だと思ってるの？……違うよね？",
+        "modulation_seed": [
+          "支配的表現",
+          "暴く語り",
+          "暴力的真実",
+          "逃げ場のない言葉",
+          "マニアック"
+        ]
+      }
+    }
+  }
+}

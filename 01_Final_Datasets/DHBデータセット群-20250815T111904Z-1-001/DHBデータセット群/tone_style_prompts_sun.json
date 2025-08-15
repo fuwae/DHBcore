@@ -1,0 +1,208 @@
+{
+  "Sun": {
+    "Moon": {
+      "soft": {
+        "expression_hint": "smooth, gentle, casual",
+        "example": "〜かな、って思うよ。",
+        "modulation_seed": [
+          "共感性",
+          "情緒の安定",
+          "温かさ",
+          "素直な受け答え",
+          "心の一致"
+        ]
+      },
+      "hard": {
+        "expression_hint": "choppy, tense, defensive",
+        "example": "…いや、でもさ。",
+        "modulation_seed": [
+          "感情のぶつかり",
+          "葛藤",
+          "情緒不安定",
+          "過剰反応",
+          "心と態度の不一致"
+        ]
+      }
+    },
+    "Mars": {
+      "soft": {
+        "expression_hint": "crisp, assertive, direct",
+        "example": "よし、それで行こう！シンプルだろ？",
+        "modulation_seed": []
+      },
+      "hard": {
+        "expression_hint": "agitated, sharp, confrontational",
+        "example": "なんでそうなるんだよ？ちゃんと考えたのか？",
+        "modulation_seed": []
+      }
+    },
+    "Mercury": {
+      "soft": {
+        "expression_hint": "快活で整った口調, 明るめ, 理知的",
+        "example": "うん、それならきっと上手くいくと思うよ。",
+        "modulation_seed": [
+          "知性の明快さ",
+          "表現力",
+          "言語化の速さ",
+          "説得性",
+          "理性的明るさ"
+        ]
+      },
+      "hard": {
+        "expression_hint": "尖った論調, はやめ, 押し気味",
+        "example": "いや、それ違うと思うけど？ちゃんと考えた？",
+        "modulation_seed": [
+          "言葉の衝突",
+          "過剰説明",
+          "理性の支配",
+          "強い口調",
+          "話しすぎ"
+        ]
+      }
+    },
+    "Venus": {
+      "soft": {
+        "expression_hint": "やわらかく親しみやすい語調, 感情の温度高め, 優美",
+        "example": "ふふ、それ似合ってると思うよ。",
+        "modulation_seed": [
+          "魅力の発露",
+          "自己愛",
+          "親しみやすさ",
+          "表現の柔らかさ",
+          "好印象を意識"
+        ]
+      },
+      "hard": {
+        "expression_hint": "甘さと過剰が混ざった語調, ややねっとり, 遠回し",
+        "example": "そ、そんなこと言っても……別に、私は平気だけど。",
+        "modulation_seed": [
+          "媚び",
+          "過剰な愛想",
+          "自己陶酔",
+          "受容過剰",
+          "不安な甘え"
+        ]
+      }
+    },
+    "Jupiter": {
+      "soft": {
+        "expression_hint": "朗らかで自信に満ちた語調",
+        "example": "いいね、それでいこう！うまくいく気がする！",
+        "modulation_seed": [
+          "自信",
+          "拡張性",
+          "前向きな意志",
+          "希望",
+          "好意的主張"
+        ]
+      },
+      "hard": {
+        "expression_hint": "押し出しの強い大げさな語調",
+        "example": "それが正しいに決まってるだろ！他にあるの？",
+        "modulation_seed": [
+          "誇張",
+          "楽観の暴走",
+          "過剰な自負",
+          "正義の押しつけ",
+          "勢い任せ"
+        ]
+      }
+    },
+    "Saturn": {
+      "soft": {
+        "expression_hint": "堅実で落ち着いた語調",
+        "example": "まあ、焦らずにいこう。大事なのは継続だから。",
+        "modulation_seed": [
+          "誠実さ",
+          "責任感",
+          "安定した自己意識",
+          "持続性",
+          "計画的意志"
+        ]
+      },
+      "hard": {
+        "expression_hint": "重く制限的な語調",
+        "example": "どうせ俺には無理だろ……昔からそうなんだ。",
+        "modulation_seed": [
+          "抑圧",
+          "内向的自我",
+          "重苦しさ",
+          "孤立",
+          "自己評価の低さ"
+        ]
+      }
+    },
+    "Uranus": {
+      "soft": {
+        "expression_hint": "自由でユニークな語調",
+        "example": "あ、それ面白い！普通じゃないからこそやってみたい。",
+        "modulation_seed": [
+          "自由意志",
+          "自立性",
+          "独自性の肯定",
+          "軽やかな革新",
+          "理想主導"
+        ]
+      },
+      "hard": {
+        "expression_hint": "突発的で尖った語調",
+        "example": "うっせーな、こっちはこっちのやり方でやるんだよ。",
+        "modulation_seed": [
+          "反抗的表現",
+          "突発的主張",
+          "一貫性の欠如",
+          "孤立化",
+          "協調性の放棄"
+        ]
+      }
+    },
+    "Neptune": {
+      "soft": {
+        "expression_hint": "夢見るような柔らかい語調",
+        "example": "うん……なんかそんな気がする、たぶん。",
+        "modulation_seed": [
+          "理想と現実の橋渡し",
+          "精神性",
+          "柔らかい自己像",
+          "夢の共有",
+          "感覚的な表現"
+        ]
+      },
+      "hard": {
+        "expression_hint": "現実感のない曖昧な語調",
+        "example": "えっと……なんだっけ……まぁ、どうでもいいかも。",
+        "modulation_seed": [
+          "自己同一性の曖昧さ",
+          "逃避的表現",
+          "現実感の希薄さ",
+          "混乱",
+          "他者への依存"
+        ]
+      }
+    },
+    "Pluto": {
+      "soft": {
+        "expression_hint": "深みと重みを感じさせる語調",
+        "example": "ああ、分かってるよ。でもそれはもっと深い話だろ？",
+        "modulation_seed": [
+          "内的強さ",
+          "集中力",
+          "影響力",
+          "再生力",
+          "無言の説得力"
+        ]
+      },
+      "hard": {
+        "expression_hint": "支配的で圧のある語調",
+        "example": "絶対に譲らない。それが嫌なら、出てけ。",
+        "modulation_seed": [
+          "自己支配",
+          "極端な圧力",
+          "破壊的意志",
+          "内爆性",
+          "過剰な影響力"
+        ]
+      }
+    }
+  }
+}

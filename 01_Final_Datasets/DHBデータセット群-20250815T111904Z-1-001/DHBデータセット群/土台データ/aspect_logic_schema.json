@@ -1,0 +1,96 @@
+{
+  "relation_axis_map": {
+    "Sun_Moon": "ego_emotion",
+    "Sun_Mercury": "identity_communication",
+    "Sun_Venus": "ego_affection",
+    "Sun_Mars": "will_action",
+    "Sun_Jupiter": "vision_expansion",
+    "Sun_Saturn": "self_structure",
+    "Sun_Uranus": "self_disruption",
+    "Sun_Neptune": "self_dissolution",
+    "Sun_Pluto": "self_transformation"
+  },
+  "aspect_modifiers": {
+    "conjunction": {
+      "tension_range": [
+        2,
+        5
+      ],
+      "fluidity_range": [
+        1,
+        3
+      ],
+      "dynamic_notes": "融合・自己飽和・境界の曖昧さ"
+    },
+    "sextile": {
+      "tension_range": [
+        1,
+        2
+      ],
+      "fluidity_range": [
+        3,
+        5
+      ],
+      "dynamic_notes": "自然な補完関係・リラックス"
+    },
+    "square": {
+      "tension_range": [
+        4,
+        5
+      ],
+      "fluidity_range": [
+        1,
+        2
+      ],
+      "dynamic_notes": "摩擦・試練・押し引きの綱引き"
+    },
+    "trine": {
+      "tension_range": [
+        1
+      ],
+      "fluidity_range": [
+        4,
+        5
+      ],
+      "dynamic_notes": "スムーズ・無自覚な流れ・超自然的調和"
+    },
+    "opposition": {
+      "tension_range": [
+        4,
+        5
+      ],
+      "fluidity_range": [
+        2,
+        3
+      ],
+      "dynamic_notes": "引力と衝突の共存・相補的葛藤"
+    },
+    "none": {
+      "tension_range": [
+        0,
+        3
+      ],
+      "fluidity_range": [
+        0,
+        2
+      ],
+      "dynamic_notes": "無関心または予測不能・断絶"
+    }
+  },
+  "gravity_tags": {
+    "grounded": "現実的・安定志向・保守的な解釈",
+    "volatile": "感情的・エモーショナル・衝動的",
+    "idealistic": "理想主義・ロマン・美化傾向",
+    "detached": "冷静・分析的・距離を取る観察者視点"
+  },
+  "output_fields": {
+    "type": "アスペクト種別（soft/hard/conjunction/noneなど）",
+    "relationship": "要約的な関係性説明文（自然言語）",
+    "dynamic": "具体的な心理・行動傾向説明（自然言語）",
+    "keywords": "関係性を表すキーワードリスト（名詞句）",
+    "tension": "数値的緊張度（1〜5）",
+    "fluidity": "数値的流動性（1〜5）",
+    "gravity": "表現傾向分類タグ（任意）"
+  },
+  "notes": "この構造により、即興で関係性を生成することが可能。ふわえ由来の直感を論理変換した土台です。"
+}

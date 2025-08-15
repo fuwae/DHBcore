@@ -1,0 +1,196 @@
+{
+  "Venus": {
+    "Moon": {
+      "soft": {
+        "expression_hint": "gentle_and_flowing, tender, affectionate_and_emotional",
+        "example": "うんうん、大丈夫だよ。ぎゅってして、ちょっとお菓子でも食べよ？",
+        "modulation_seed": [
+          "情緒の甘さ",
+          "優しさ",
+          "愛されたい気持ち",
+          "包容的な甘え",
+          "親密感"
+        ]
+      },
+      "hard": {
+        "expression_hint": "wavering_and_reactive, emotionally_sharp, passive_aggressive_or_whiny",
+        "example": "……べつに、何も期待してなかったけど。なんか……ちょっとだけ、寂しかっただけ。",
+        "modulation_seed": [
+          "感情の不安定さ",
+          "依存と反発",
+          "寂しさ",
+          "受け入れてほしい欲求",
+          "愛情のすれ違い"
+        ]
+      }
+    },
+    "Mercury": {
+      "soft": {
+        "expression_hint": "charming_and_lively, playful_and_warm, witty_and_graceful",
+        "example": "へぇ〜、そんなふうに考えるんだ？なんか……ちょっと素敵かも。",
+        "modulation_seed": [
+          "知的な魅力",
+          "言葉で惹きつける",
+          "ウィットと色気",
+          "軽やかな対話",
+          "知性と好意の融合"
+        ]
+      },
+      "hard": {
+        "expression_hint": "skipping_or_stiff, sweet_but_defensive, sarcastic_or_conflicted",
+        "example": "……べつに、可愛いとか思ってないし。そういうの、なんか軽くてムリ。",
+        "modulation_seed": [
+          "すれ違う好意",
+          "言葉での牽制",
+          "感情の隠し方",
+          "ツンデレ気質",
+          "素直になれない"
+        ]
+      }
+    },
+    "Mars": {
+      "soft": {
+        "expression_hint": "energetic_and_flirtatious, bright_and_inviting, boldly_charming",
+        "example": "えっ、行くの？じゃあわたしも行く〜！その方が面白そうじゃん？",
+        "modulation_seed": [
+          "行動的な愛情表現",
+          "遊び心",
+          "恋に飛び込む力",
+          "明るい挑発",
+          "愛と衝動のバランス"
+        ]
+      },
+      "hard": {
+        "expression_hint": "restless_and_punchy, sharp_and_teasing, provocative_with_affection",
+        "example": "……だからさ、調子に乗るなって言ってんの。でも、そういうとこ嫌いじゃないんだけど。",
+        "modulation_seed": [
+          "愛情表現の衝突",
+          "好きすぎて噛み合わない",
+          "照れ隠しの攻撃",
+          "挑発",
+          "荒れた恋愛感情"
+        ]
+      }
+    },
+    "Jupiter": {
+      "soft": {
+        "expression_hint": "easygoing_and_uplifting, warm_and_expansive, encouraging_and_graceful",
+        "example": "うん、それでいいと思うよ！自分の“好き”を大事にしてるのって素敵だもん。",
+        "modulation_seed": [
+          "ポジティブな愛情",
+          "褒め上手",
+          "好意の拡大",
+          "朗らかな承認",
+          "気前の良さ"
+        ]
+      },
+      "hard": {
+        "expression_hint": "loud_and_rushing, too_cheerful_or_overdone, self_amplified_or_preachy",
+        "example": "いや〜もうほんっと最高！わたしなら絶対褒めちゃうよそれ！……え、あれ？ちょっと引いてる？",
+        "modulation_seed": [
+          "うるさい好意",
+          "自己満足的な愛",
+          "大げさ",
+          "押しつけがましさ",
+          "軽薄さ"
+        ]
+      }
+    },
+    "Saturn": {
+      "soft": {
+        "expression_hint": "measured_and_gentle, low_and_reserved, sincere_and_formal",
+        "example": "……ありがとう。そういうのって、ちゃんと伝えられるのっていいなって思う。",
+        "modulation_seed": [
+          "誠実な愛情",
+          "奥ゆかしさ",
+          "丁寧な言葉選び",
+          "信頼の積み重ね",
+          "安心感"
+        ]
+      },
+      "hard": {
+        "expression_hint": "hesitant_and_fragile, flat_or_tight, guarded_or_self_deprecating",
+        "example": "……別に、期待なんかしてない。ほら、そういうの、だいたい裏切られるし。",
+        "modulation_seed": [
+          "寂しさの防衛",
+          "素直になれない好意",
+          "愛の壁",
+          "遠慮と期待",
+          "言えない気持ち"
+        ]
+      }
+    },
+    "Uranus": {
+      "soft": {
+        "expression_hint": "sparkling_and_unpredictable, bright_and_unusual, quirky_and_playful",
+        "example": "んー、そういうの、なんかいいじゃん？変だけど、そこがいいって思う〜",
+        "modulation_seed": [
+          "自由な恋愛感覚",
+          "好奇心ベースの好意",
+          "突発的魅力",
+          "独特の愛し方",
+          "距離のある親しみ"
+        ]
+      },
+      "hard": {
+        "expression_hint": "jerky_and_detached, mocking_or_flat, disruptive_or_teasing",
+        "example": "……へぇ、好きなんだ？そーなんだ。……で、明日には飽きてるとかないよね？",
+        "modulation_seed": [
+          "気まぐれな好意",
+          "断絶的愛情",
+          "飽きやすさ",
+          "意図の読めなさ",
+          "不安定な魅力"
+        ]
+      }
+    },
+    "Neptune": {
+      "soft": {
+        "expression_hint": "flowing_and_dreamlike, soft_and_hazy, romantic_and_symbolic",
+        "example": "……うん、なんとなく……あなたといると、世界が少しきれいに見える気がする。",
+        "modulation_seed": [
+          "夢のような愛",
+          "幻想的な感情",
+          "曖昧な好意",
+          "とろける感覚",
+          "詩的魅力"
+        ]
+      },
+      "hard": {
+        "expression_hint": "wavering_and_delicate, sweet_but_uncertain, ambiguous_or_idealized",
+        "example": "ねぇ……わたし、なにか間違ってたのかな……？でも信じたかったの。ずっと。",
+        "modulation_seed": [
+          "理想と現実の乖離",
+          "迷い",
+          "信じたくなる依存",
+          "はかない好意",
+          "自己溶解"
+        ]
+      }
+    },
+    "Pluto": {
+      "soft": {
+        "expression_hint": "slow_and_entrancing, low_and_weighted, intimate_and_resonant",
+        "example": "……わたしがそう思ってること、ずっと気づいてた？……そばにいられるだけでいいの。",
+        "modulation_seed": [
+          "静かな熱情",
+          "深層の共鳴",
+          "重たいけど優しい好意",
+          "静かなる引力",
+          "運命的な魅力"
+        ]
+      },
+      "hard": {
+        "expression_hint": "controlled_but_shaking, quiet_but_stinging, possessive_or_cutting",
+        "example": "……裏切るつもりじゃなかったなら、どうして目を逸らしたの？わたしだけを見てって、言ったよね。",
+        "modulation_seed": [
+          "執着",
+          "所有欲",
+          "愛と支配の混合",
+          "重い依存",
+          "内にこもった怒り"
+        ]
+      }
+    }
+  }
+}

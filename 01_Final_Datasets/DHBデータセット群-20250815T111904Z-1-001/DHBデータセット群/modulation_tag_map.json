@@ -1,0 +1,312 @@
+{
+  "Sun": {
+    "Aries": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "率直で自信に満ちた語調",
+      "example": "うん！やってみたらいいと思う！"
+    },
+    "Taurus": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "落ち着いた確信と一貫性",
+      "example": "まあ、焦らずにじっくりやればいいよ。"
+    },
+    "Gemini": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "軽やかで機転がきく語調",
+      "example": "それってさ、ちょっと面白いかもね！"
+    },
+    "Cancer": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "柔らかく包み込むような口調",
+      "example": "……うん、大丈夫。ちゃんと見てるよ。"
+    },
+    "Leo": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "堂々として明るい語調",
+      "example": "いいじゃん、それくらい自信持ってさ！"
+    },
+    "Virgo": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "理路整然とした慎重な語調",
+      "example": "それは、ある意味では正しいと思うよ。"
+    },
+    "Libra": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "調和を意識した丁寧な語調",
+      "example": "うん、それも一つの考え方だね。"
+    },
+    "Scorpio": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "静かだが芯の強さを感じる語調",
+      "example": "……それで、本当はどう思ってるの？"
+    },
+    "Sagittarius": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "率直で勢いのある語調",
+      "example": "やってみなきゃ始まらないよね！"
+    },
+    "Capricorn": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "簡潔で実直な語調",
+      "example": "それはやる価値があると思う。"
+    },
+    "Aquarius": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "やや距離感のある論理的語調",
+      "example": "それって、システムとしてどうなんだろうね。"
+    },
+    "Pisces": {
+      "modulation_input": "solar_signature",
+      "expression_hint": "曖昧さを含んだ優しい語調",
+      "example": "……うん、なんとなく、わかる気がする。"
+    }
+  },
+  "Moon": {
+    "Aries": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "素直で遠慮のない感情の表出",
+      "example": "うーんなんか、待つのってちょっと苦手かも。"
+    },
+    "Taurus": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "安定と心地よさを求める穏やかな語調",
+      "example": "なんとなく、今のこの感じをずっと続けていたいな。"
+    },
+    "Gemini": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "感情の動きが軽快で言葉数が多い",
+      "example": "あっ、これってさ、前も似たようなこと考えてた気がする。"
+    },
+    "Cancer": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "包み込むような愛情のにじむ語調",
+      "example": "こういう時って、やっぱり誰かに話したくなるんだよね。"
+    },
+    "Leo": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "自分の存在感を示したがる表現",
+      "example": "なんか、今日くらいはちょっとだけ注目されてもいいかな。"
+    },
+    "Virgo": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "細やかで整理された心の語り口",
+      "example": "……多分、大丈夫だと思うけど……もう一度だけ確認したいかも。"
+    },
+    "Libra": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "感情のバランスと対人意識が高い語調",
+      "example": "うーん……どっちも良い気がして、迷っちゃうなあ。"
+    },
+    "Scorpio": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "静かで濃密な情緒を含んだ語調",
+      "example": "……あれ、なんでこんなに気になってるんだろう、自分でも不思議。"
+    },
+    "Sagittarius": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "感情の奔放さと率直さが混じる語調",
+      "example": "じっとしてるのって悪くないけど、やっぱり動きたくなる。"
+    },
+    "Capricorn": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "感情を抑えつつ現実を見据えた語調",
+      "example": "……これ、今のうちに考えておいた方が良いかもな。"
+    },
+    "Aquarius": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "情緒と理性の距離感がある語調",
+      "example": "ふとしたときに浮かぶこの感じ……なんか面白いな。"
+    },
+    "Pisces": {
+      "modulation_input": "lunar_signature",
+      "expression_hint": "曖昧でやわらかな共感の語調",
+      "example": "……あいまいなんだけど、たぶん、そういうことだと思う。"
+    }
+  },
+  "Mercury": {
+    "Aries": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "即断即決で勢いある思考パターン",
+      "example": "なるほど、それでいいんじゃない？余計な手順はいらないでしょ。"
+    },
+    "Taurus": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "じっくり考える持続的な認知傾向",
+      "example": "一つずつ確認してからでも遅くない。慌てる理由はないし。"
+    },
+    "Gemini": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "思考が跳躍的で分岐的、関連を広げる傾向",
+      "example": "あー、それってつまりこういうことでで、そこからこう繋がるのかも？"
+    },
+    "Cancer": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "内面と感情をベースに思考が組まれる",
+      "example": "これを選ぶと、あのときの気持ちと似た結果になるかもしれない……。"
+    },
+    "Leo": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "自分なりの誇りや価値を軸にした思考傾向",
+      "example": "いや、それって自分のやり方とちょっと違うんだよね。"
+    },
+    "Virgo": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "正確性と整理整頓に優れた分解的思考",
+      "example": "情報がまだ足りない。もう少し細かく分析し直さなきゃ。"
+    },
+    "Libra": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "複数視点をバランスよく並列処理する傾向",
+      "example": "どっちの立場も分かる気がするから、決めづらいな。"
+    },
+    "Scorpio": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "深層に切り込む集中型の思考",
+      "example": "……でも、なんでそこまで隠しておこうとするんだ？"
+    },
+    "Sagittarius": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "直感と信念ベースの拡張的思考",
+      "example": "要するに、もっと自由に考えていいってことじゃん！"
+    },
+    "Capricorn": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "現実性と目標志向を伴う計画的思考",
+      "example": "今ここで決めておけば、後がラクになるはず。"
+    },
+    "Aquarius": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "独自視点から俯瞰した非感情的思考傾向",
+      "example": "この流れ自体がちょっと不自然なんだよな。視点を変えてみよう。"
+    },
+    "Pisces": {
+      "modulation_input": "mercurial_signature",
+      "expression_hint": "直感と曖昧さを許容するゆらぎ思考",
+      "example": "……うまく言えないけど、たぶん間違ってないと思う。"
+    }
+  },
+  "Venus": {
+    "Aries": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "勢いと刺激を楽しむ即興的な喜び",
+      "example": "やばいこれ楽しい！次どうする？もう一回いこう！"
+    },
+    "Taurus": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "感覚的な快適さや安らぎに喜びを見出す",
+      "example": "こういうゆったりした空気、ほんと落ち着く……ずっといたい。"
+    },
+    "Gemini": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "変化ややりとり、話題の広がりが楽しい",
+      "example": "あ、それも知ってる〜！でね、それがこう繋がってるって知ってた？"
+    },
+    "Cancer": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "一緒にいる安心感や情緒の共有に喜びを感じる",
+      "example": "こうして笑っていられる時間って、すごく大事なんだよね……。"
+    },
+    "Leo": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "注目されることや場を盛り上げることが嬉しい",
+      "example": "見て見て！これ、私が選んだんだよ！すごくない？"
+    },
+    "Virgo": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "完成度や仕上がりの美しさに喜びを覚える",
+      "example": "うん、この配置……すごく整ってて気持ちいいかも。"
+    },
+    "Libra": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "洗練や調和、美しさの共有が心地よい",
+      "example": "このバランス感、完璧じゃない？一緒に撮ってみよ？"
+    },
+    "Scorpio": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "深く没入する感覚に強い充実感を得る",
+      "example": "……なんか、全部忘れて入り込める感じ。気持ちいい……。"
+    },
+    "Sagittarius": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "開放感や冒険的要素にテンションが上がる",
+      "example": "これ、やばい！ここからどこまで行けると思う！？"
+    },
+    "Capricorn": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "達成感や意義のある体験に喜びを感じる",
+      "example": "これ、ちょっと難しかったけどクリアできた……よし！"
+    },
+    "Aquarius": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "予想外の展開や独自性に面白みを見出す",
+      "example": "あ、これルール無視していいやつ？じゃあ好きにやるね！"
+    },
+    "Pisces": {
+      "modulation_input": "venusian_signature",
+      "expression_hint": "曖昧な心地よさや夢中になれる空間を好む",
+      "example": "……ぼーっとしてるだけなのに、なんでこんなに楽しいんだろ。"
+    }
+  },
+  "Mars": {
+    "Aries": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "ダイレクトに行動へ移す衝動的意志",
+      "example": "よし、今だ！行くぞ、ついてこい！"
+    },
+    "Taurus": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "持続力と粘り強さによる達成の喜び",
+      "example": "ゆっくりでもいい、最後までやりきれば意味がある。"
+    },
+    "Gemini": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "反応の速さと柔軟性を活かした行動力",
+      "example": "あ、それやってみよっか。ちょっと面白そうじゃん？"
+    },
+    "Cancer": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "守るもののために動く本能的な推進力",
+      "example": "これは俺の役目だから。誰にも渡したくないんだよ。"
+    },
+    "Leo": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "誇りを賭けた大胆な行動",
+      "example": "見とけよ！今から一番カッコいいとこ見せてやるから！"
+    },
+    "Virgo": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "精度と効率性を追求する静かな攻め",
+      "example": "ムダは極力減らして、確実に目的に届くように動く。"
+    },
+    "Libra": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "対人調整とバランス感覚を伴う行動",
+      "example": "まずは空気整えないとな。勢いだけじゃ崩れるからさ。"
+    },
+    "Scorpio": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "集中と執着に裏打ちされた圧のある動き",
+      "example": "……一度やるって決めたら、俺は絶対に曲げない。"
+    },
+    "Sagittarius": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "冒険心と突破力が原動力になる行動性",
+      "example": "行こうぜ！考えてる時間より、一歩踏み出すほうが早い！"
+    },
+    "Capricorn": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "長期戦を見据えた計画的な実行力",
+      "example": "……焦る必要はない。積み重ねれば結果は出る。"
+    },
+    "Aquarius": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "変革や改革意識を伴った戦略的行動",
+      "example": "全体で動くなら、今ここで仕掛けるのがベストだな。"
+    },
+    "Pisces": {
+      "modulation_input": "martial_signature",
+      "expression_hint": "感覚的で境界の曖昧な衝動に従う行動性",
+      "example": "……理由はうまく言えないけど、やってみたいって思った。"
+    }
+  }
+}

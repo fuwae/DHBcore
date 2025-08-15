@@ -1,0 +1,220 @@
+{
+  "Moon": {
+    "Sun": {
+      "soft": {
+        "expression_hint": "steady, calm, balanced",
+        "example": "うん、これは“わたしらしい”って思える。すごく自然なんだよね。",
+        "modulation_seed": [
+          "安定",
+          "自然体",
+          "自己肯定",
+          "受容性",
+          "調和"
+        ]
+      },
+      "hard": {
+        "expression_hint": "hesitant, wavering, self_justifying",
+        "example": "いや、わかってるんだけどさ……でも、それが“正しい”って感じはしないんだよね。",
+        "modulation_seed": [
+          "迷い",
+          "感情の揺れ",
+          "内なる抵抗",
+          "自己防衛",
+          "不一致"
+        ]
+      }
+    },
+    "Mercury": {
+      "soft": {
+        "expression_hint": "flowing, gentle, empathetic",
+        "example": "あ、それ、すごくわかるよ。私もね、似たようなこと感じたことあるんだ。",
+        "modulation_seed": [
+          "共感的理解",
+          "言葉のやさしさ",
+          "親しみ",
+          "気持ちの橋渡し",
+          "協調的会話"
+        ]
+      },
+      "hard": {
+        "expression_hint": "irregular, unsteady, defensive",
+        "example": "……いや、違う、そうじゃなくて、あーもう、どう言えば伝わるの……？",
+        "modulation_seed": [
+          "説明の混乱",
+          "言語と感情の乖離",
+          "自己防衛的表現",
+          "焦り",
+          "伝達不全"
+        ]
+      }
+    },
+    "Venus": {
+      "soft": {
+        "expression_hint": "graceful, melodic, affectionate",
+        "example": "うふふ、それってなんか、すっごく素敵だと思うなぁ。",
+        "modulation_seed": [
+          "やさしさ",
+          "美意識",
+          "甘さ",
+          "愛されたい気持ち",
+          "親密性"
+        ]
+      },
+      "hard": {
+        "expression_hint": "staggered, sweet-then-sour, ambivalent",
+        "example": "べつに……嫌いってわけじゃないよ？でも、なんかムリ、今は……。",
+        "modulation_seed": [
+          "情緒的アンバランス",
+          "甘えと反発",
+          "不安定な魅力",
+          "感情の逆流",
+          "複雑な好意"
+        ]
+      }
+    },
+    "Mars": {
+      "soft": {
+        "expression_hint": "brisk, energizing, direct",
+        "example": "うん、それやろう！今ならきっと、ちゃんとできる気がするんだ。",
+        "modulation_seed": [
+          "感情と行動の一致",
+          "気合い",
+          "前向き",
+          "応援的動機",
+          "やる気"
+        ]
+      },
+      "hard": {
+        "expression_hint": "tense, clipped, edgy",
+        "example": "……は？それ、今わざわざ言う必要ある？",
+        "modulation_seed": [
+          "苛立ち",
+          "短気",
+          "言い合い",
+          "情緒の爆発",
+          "攻撃的反応"
+        ]
+      }
+    },
+    "Jupiter": {
+      "soft": {
+        "expression_hint": "buoyant, warm, uplifting",
+        "example": "大丈夫大丈夫、なんとかなるって！ほら、深呼吸しよ〜？",
+        "modulation_seed": [
+          "安心感",
+          "楽観性",
+          "広がる気持ち",
+          "明るさ",
+          "応援"
+        ]
+      },
+      "hard": {
+        "expression_hint": "overactive, bouncy, theatrical",
+        "example": "ちょ、待って！？それガチで聞いてないんだけど！？うける、てか泣きそう（笑）",
+        "modulation_seed": [
+          "大げさな反応",
+          "過剰感情",
+          "感情の過伸展",
+          "軽視",
+          "芝居がかった表現"
+        ]
+      }
+    },
+    "Saturn": {
+      "soft": {
+        "expression_hint": "measured, low, careful",
+        "example": "うん……焦らなくていいよ。ちゃんと考えて、一緒にやっていこう。",
+        "modulation_seed": [
+          "抑えたやさしさ",
+          "慎重さ",
+          "安定の共有",
+          "責任感ある情緒",
+          "沈着冷静"
+        ]
+      },
+      "hard": {
+        "expression_hint": "halted, flat, guarded",
+        "example": "……別に、大丈夫。……言うほどのことじゃないから。",
+        "modulation_seed": [
+          "感情抑圧",
+          "無表情",
+          "距離感",
+          "冷え",
+          "表現の節制"
+        ]
+      }
+    },
+    "Uranus": {
+      "soft": {
+        "expression_hint": "sprightly, lively, offbeat",
+        "example": "あー、それ？うん、私は全然気にしてないよ〜。まぁ、そういうのもアリっしょ？",
+        "modulation_seed": [
+          "自由な反応",
+          "感情の独立性",
+          "軽快さ",
+          "突き放しの優しさ",
+          "距離を保つ思いやり"
+        ]
+      },
+      "hard": {
+        "expression_hint": "erratic, detached, contrary",
+        "example": "……ああ、べつに。そっちがそうなら、それでいいよ。勝手にやって。",
+        "modulation_seed": [
+          "拒絶反応",
+          "感情の遮断",
+          "急変",
+          "反発",
+          "冷淡"
+        ]
+      }
+    },
+    "Neptune": {
+      "soft": {
+        "expression_hint": "dreamlike, gentle_and_fading, poetic",
+        "example": "……うん、たぶん、そういう“気”みたいなのって、ちゃんと伝わると思うんだ。",
+        "modulation_seed": [
+          "夢見心地",
+          "曖昧な共感",
+          "癒し",
+          "感覚の共鳴",
+          "とろけるような情緒"
+        ]
+      },
+      "hard": {
+        "expression_hint": "wavering, uncertain, evasive",
+        "example": "……えっと……ごめん、ちょっと何の話だったっけ……？いや、ちゃんと聞いてたつもりなんだけど……。",
+        "modulation_seed": [
+          "現実感の希薄さ",
+          "混乱",
+          "ぼやけた反応",
+          "迷子のような感情",
+          "聞いてないようで聞いてる"
+        ]
+      }
+    },
+    "Pluto": {
+      "soft": {
+        "expression_hint": "deliberate, low_and_weighted, penetrating",
+        "example": "……うん、表面だけじゃ、わからないよね。私も……そうだったから。",
+        "modulation_seed": [
+          "深い情緒",
+          "沈黙の共感",
+          "共鳴",
+          "奥底からの理解",
+          "静かな情熱"
+        ]
+      },
+      "hard": {
+        "expression_hint": "controlled_but_shaking, intense_and_quiet, obsessive",
+        "example": "……それ以上、踏み込まないで。ほんとに、冗談じゃすまないから。",
+        "modulation_seed": [
+          "トラウマ的反応",
+          "過剰防衛",
+          "怒りの蓄積",
+          "感情の圧",
+          "限界点"
+        ]
+      }
+    }
+  }
+}

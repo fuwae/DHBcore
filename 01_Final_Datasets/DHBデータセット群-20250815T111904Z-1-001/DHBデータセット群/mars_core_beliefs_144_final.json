@@ -1,0 +1,1586 @@
+[
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "1",
+    "core_belief": "思いついたら動く。そういうのが、自分には一番しっくりくる。",
+    "tags": [
+      "衝動的",
+      "即断即決",
+      "自分主導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "2",
+    "core_belief": "稼ぐのも奪うのも、自分の手でやるほうが落ち着く。",
+    "tags": [
+      "稼ぐ力",
+      "自己資源",
+      "現実主義"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "3",
+    "core_belief": "言葉でごちゃごちゃするくらいなら、先に動いたほうが早いと思う。",
+    "tags": [
+      "言語反射",
+      "直感主張",
+      "行動重視"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "4",
+    "core_belief": "守る場所は自分で作るし、自分で守るって決めてる。",
+    "tags": [
+      "家庭防衛",
+      "主導権",
+      "情動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "5",
+    "core_belief": "欲しいものは欲しい。それを隠しても意味がないと思う。",
+    "tags": [
+      "恋愛衝動",
+      "創造性",
+      "演出"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "6",
+    "core_belief": "動いてると落ち着く。仕事もその延長みたいなもんだと思う。",
+    "tags": [
+      "労働",
+      "行動主義",
+      "役割意識"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "7",
+    "core_belief": "ぶつかることもあるけど、それでしか分かり合えない気がする。",
+    "tags": [
+      "パートナー",
+      "競争",
+      "勝利への執念"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "8",
+    "core_belief": "大事なことは奥にしまってる。でも、誰かが触れてきたら反応してしまう。",
+    "tags": [
+      "深層戦略",
+      "秘密",
+      "心の砦"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "9",
+    "core_belief": "信じた道があれば、とりあえず突っ走ってみる。",
+    "tags": [
+      "哲学戦闘",
+      "理想",
+      "布教"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "10",
+    "core_belief": "社会の中でも、自分のやり方で通していきたいと思ってる。",
+    "tags": [
+      "出世欲",
+      "野心",
+      "社会的闘争"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "11",
+    "core_belief": "仲間と動くなら、俺が前に出るのが自然な形なんだ。",
+    "tags": [
+      "友情",
+      "先陣",
+      "ネットワーク内統率"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "house": "12",
+    "core_belief": "外には見せないけど、内側にはずっと火がついてる。",
+    "tags": [
+      "精神世界",
+      "内面戦争",
+      "目に見えぬ力"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "1",
+    "core_belief": "ゆっくりでもいい。確実に動けば、必ず自分の形になる。",
+    "tags": [
+      "粘り強さ",
+      "安定志向",
+      "自己主導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "2",
+    "core_belief": "自分の手で築いたものしか、本当の価値は持たない。",
+    "tags": [
+      "物質重視",
+      "所有欲",
+      "実力主義"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "3",
+    "core_belief": "言葉は慎重に選べ。噛みしめた語だけが人を動かす。",
+    "tags": [
+      "沈黙",
+      "説得",
+      "重厚な話し方"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "4",
+    "core_belief": "自分の拠点は、揺るがぬ意志で守り抜くもの。",
+    "tags": [
+      "家庭防衛",
+      "保守性",
+      "根の強さ"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "5",
+    "core_belief": "自分の感性に嘘はつけない。欲しいものは手に入れる。",
+    "tags": [
+      "五感重視",
+      "所有愛",
+      "芸術的執着"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "6",
+    "core_belief": "毎日積み重ねることが、最強の武器になる。",
+    "tags": [
+      "日常力",
+      "職人気質",
+      "安定した実行力"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "7",
+    "core_belief": "相手とぶつかっても、自分のペースは崩さない。",
+    "tags": [
+      "協調的抵抗",
+      "受け流し",
+      "意志の堅さ"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "8",
+    "core_belief": "結びつくなら、命がけで守り抜く価値がある。",
+    "tags": [
+      "結合本能",
+      "執着心",
+      "深い献身"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "9",
+    "core_belief": "信じた理念は、現実の形にしてこそ意味がある。",
+    "tags": [
+      "実践的理想",
+      "地に足のついた信念",
+      "拡張の粘着力"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "10",
+    "core_belief": "目標はゆっくり登る山。誰よりも確実に頂上に立つ。",
+    "tags": [
+      "粘りの野心",
+      "継続",
+      "成果主義"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "11",
+    "core_belief": "仲間とは、価値を共有してこそ動ける。",
+    "tags": [
+      "価値観共有",
+      "安心感",
+      "地に足ついた連帯"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "house": "12",
+    "core_belief": "動けない時ほど、内なる力は静かに育つ。",
+    "tags": [
+      "内面的持続力",
+      "無意識の堅牢性",
+      "回復のための停止"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "1",
+    "core_belief": "動きながら考えればいい。止まる方が性に合わない。",
+    "tags": [
+      "軽快",
+      "即応性",
+      "自己主導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "2",
+    "core_belief": "持ち物は使ってこそ意味がある。飾っておく気はないよ。",
+    "tags": [
+      "実用主義",
+      "回転率",
+      "知的資産"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "3",
+    "core_belief": "話すのは好きだし、勝てるならもっと楽しい。",
+    "tags": [
+      "言語応酬",
+      "軽口",
+      "巧みな主導権"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "4",
+    "core_belief": "安心できる場所にも、ちょっとした刺激は必要だよね。",
+    "tags": [
+      "知的刺激",
+      "家庭内軽妙",
+      "会話の温度感"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "5",
+    "core_belief": "楽しいことはシェアしてナンボ。ちょっと煽るのも演出だよ。",
+    "tags": [
+      "遊びの巧者",
+      "煽り演出",
+      "表現主導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "6",
+    "core_belief": "単調はダメ。変化があれば働きもノる。",
+    "tags": [
+      "変化耐性",
+      "作業分散",
+      "柔軟労働"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "7",
+    "core_belief": "対話で進めたい。でも舐められるのは好きじゃない。",
+    "tags": [
+      "言語牽制",
+      "ソフト防衛",
+      "主導権維持"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "8",
+    "core_belief": "知ってるほうが強い。でも全部言うとは限らないよ？",
+    "tags": [
+      "知的防御",
+      "情報優位",
+      "二枚舌戦略"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "9",
+    "core_belief": "正論より面白いほうが人は動く。伝え方が勝負だよね。",
+    "tags": [
+      "伝達重視",
+      "軽妙哲学",
+      "思考エンタメ"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "10",
+    "core_belief": "動ける人が目立つ。だから僕は、先に動く。",
+    "tags": [
+      "行動早さ",
+      "知的出世",
+      "流動的戦略"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "11",
+    "core_belief": "仲間と話せば、戦わずとも流れはつくれる。",
+    "tags": [
+      "話術連携",
+      "ノリの共有",
+      "緩やか主導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "house": "12",
+    "core_belief": "黙ってる時こそ、言葉の準備をしてるだけさ。",
+    "tags": [
+      "内的対話",
+      "構想力",
+      "言葉の準備運動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "1",
+    "core_belief": "守りたい気持ちがあるから、前に出られる。",
+    "tags": [
+      "庇護衝動",
+      "感情駆動",
+      "自己表現の防衛"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "2",
+    "core_belief": "安心できる持ち物があれば、戦う気力も湧いてくる。",
+    "tags": [
+      "安定基盤",
+      "物質的庇護",
+      "感情と所有"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "3",
+    "core_belief": "言葉には情がいる。冷たいだけじゃ、誰も動かない。",
+    "tags": [
+      "感情の言葉",
+      "共感誘導",
+      "守るように語る"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "4",
+    "core_belief": "ここは私の場所。誰にも踏み荒らさせない。",
+    "tags": [
+      "家庭防衛",
+      "縄張り意識",
+      "感情的所有"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "5",
+    "core_belief": "好きって気持ちは、時にいちばん強い武器になる。",
+    "tags": [
+      "感情的表現",
+      "創造への情熱",
+      "愛の攻撃性"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "6",
+    "core_belief": "誰かのために動くとき、自分は本気になれる。",
+    "tags": [
+      "奉仕的戦闘",
+      "情の労働",
+      "守りながら働く"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "7",
+    "core_belief": "近い関係ほど、痛みも怒りも強くなる。",
+    "tags": [
+      "関係性の緊張",
+      "情的葛藤",
+      "愛と怒りの混在"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "8",
+    "core_belief": "深くつながったら、何があっても離さない。",
+    "tags": [
+      "情の執着",
+      "魂的結合",
+      "激しい庇護"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "9",
+    "core_belief": "大切にしたい想いは、遠くまで届ける価値がある。",
+    "tags": [
+      "理念の保護",
+      "感情的布教",
+      "理想の守り手"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "10",
+    "core_belief": "安心できる社会を作るには、戦う手を持たなきゃならない。",
+    "tags": [
+      "公的防衛",
+      "感情的リーダー",
+      "守るための権力"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "11",
+    "core_belief": "気の合う仲間には、情で動くほうがずっと強い。",
+    "tags": [
+      "仲間意識",
+      "情的連携",
+      "共感的行動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "house": "12",
+    "core_belief": "傷つく前に隠れる。でもその奥では、戦いが始まっている。",
+    "tags": [
+      "内的庇護",
+      "情動抑圧",
+      "隠れた怒り"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "1",
+    "core_belief": "自分を誇れるかぎり、どんな場にも立ってみせる。",
+    "tags": [
+      "自尊心",
+      "舞台意識",
+      "存在の主張"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "2",
+    "core_belief": "手に入れたものは、自分の価値を証明する勲章だ。",
+    "tags": [
+      "物質的誇り",
+      "資源の象徴化",
+      "実力の具現"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "3",
+    "core_belief": "言葉は堂々と、でも人を立てる余裕も忘れない。",
+    "tags": [
+      "威厳ある語り",
+      "尊重と主張",
+      "言語での存在感"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "4",
+    "core_belief": "家族やルーツを守り抜くことが、自分の誇りに繋がる。",
+    "tags": [
+      "血縁の誇り",
+      "伝統保護",
+      "私的領域の支配"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "5",
+    "core_belief": "表現することで、内側の火を世界に見せつけたい。",
+    "tags": [
+      "創造衝動",
+      "自己表現",
+      "注目欲求"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "6",
+    "core_belief": "自分が背中で示すことで、周りも動くと思っている。",
+    "tags": [
+      "模範型リーダー",
+      "勤勉の威厳",
+      "誇りある働き"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "7",
+    "core_belief": "対等な相手と並び立てる、それが本当の誇りだ。",
+    "tags": [
+      "尊重関係",
+      "誇り高き対話",
+      "威厳と対等"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "8",
+    "core_belief": "心を預けられる相手には、本気の力を注ぎたい。",
+    "tags": [
+      "深い忠誠",
+      "力の投資",
+      "信頼に基づく戦い"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "9",
+    "core_belief": "理想は掲げる旗。そこに向かう姿が、自分を強くする。",
+    "tags": [
+      "理念の演出",
+      "尊厳的信念",
+      "誇りある挑戦"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "10",
+    "core_belief": "誰よりも目立つことで、誰よりも重たい責任を引き受ける。",
+    "tags": [
+      "公的威厳",
+      "表舞台",
+      "責任感と誇示"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "11",
+    "core_belief": "仲間といるときこそ、自分の輝きが試される。",
+    "tags": [
+      "誇りの共有",
+      "主役願望",
+      "集団内自己演出"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "house": "12",
+    "core_belief": "人に見せない場所でも、自分を裏切ることはできない。",
+    "tags": [
+      "静かな誇り",
+      "内なる王",
+      "信念の孤独"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "1",
+    "core_belief": "粗は見逃せない。整っていてこそ、自信が持てる。",
+    "tags": [
+      "完璧主義",
+      "自己管理",
+      "微調整"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "2",
+    "core_belief": "積み上げたものにしか、価値を感じられない。",
+    "tags": [
+      "積層的成果",
+      "実用美",
+      "細部への執着"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "3",
+    "core_belief": "伝えるなら正確に。ズレは見過ごせない。",
+    "tags": [
+      "言葉の精密さ",
+      "論理修正",
+      "情報整備"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "4",
+    "core_belief": "居場所は整っていてこそ、落ち着ける。",
+    "tags": [
+      "清潔管理",
+      "家庭の秩序",
+      "内面環境"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "5",
+    "core_belief": "遊びも表現も、精度が高くないと納得できない。",
+    "tags": [
+      "精密表現",
+      "演出美学",
+      "批判的創造"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "6",
+    "core_belief": "不完全な仕組みは、修正するしかない。",
+    "tags": [
+      "労働改革",
+      "実務的改善",
+      "無言の働き者"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "7",
+    "core_belief": "相手の粗が見えるほど、こちらも気を張る。",
+    "tags": [
+      "観察的防衛",
+      "細部干渉",
+      "緊張的対等"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "8",
+    "core_belief": "深く関わるなら、相手の欠点ごと把握していたい。",
+    "tags": [
+      "統合的観察",
+      "自己保存的忠誠",
+      "冷静な情"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "9",
+    "core_belief": "理想は、現実で機能してこそ意味がある。",
+    "tags": [
+      "実証主義",
+      "理想の運用",
+      "効率的信念"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "10",
+    "core_belief": "社会の不具合を直せる人間でありたい。",
+    "tags": [
+      "技術的使命感",
+      "修復的野心",
+      "改善的野望"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "11",
+    "core_belief": "仲間と動くなら、無駄を省いた連携がいい。",
+    "tags": [
+      "実務的集団",
+      "連携調整",
+      "合理的行動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "house": "12",
+    "core_belief": "言わずに抑えた分だけ、内側が騒ぎ出す。",
+    "tags": [
+      "抑圧的怒り",
+      "内在ストレス",
+      "静かな反抗"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "1",
+    "core_belief": "目立ちすぎず、でも空気にはならない。それが理想の立ち位置。",
+    "tags": [
+      "自己演出",
+      "存在バランス",
+      "場の調整"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "2",
+    "core_belief": "美しいものや心地よさにも、ちゃんとコストがかかる。",
+    "tags": [
+      "洗練への執着",
+      "優雅な自己投資",
+      "対価意識"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "3",
+    "core_belief": "言葉の選び方ひとつで、敵にも味方にもなる。",
+    "tags": [
+      "言葉の駆け引き",
+      "表面礼儀",
+      "内心防衛"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "4",
+    "core_belief": "家庭も内面も、衝突を避けて整えていたい。",
+    "tags": [
+      "感情の均衡",
+      "衝突回避",
+      "美的秩序"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "5",
+    "core_belief": "見られている前提で振る舞う。優雅に、堂々と。",
+    "tags": [
+      "魅せ方重視",
+      "演出戦略",
+      "対人表現"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "6",
+    "core_belief": "一緒に働くなら、空気の読み合いもスキルのひとつ。",
+    "tags": [
+      "対人調整",
+      "美的作業",
+      "空気との戦い"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "7",
+    "core_belief": "理想的な関係性のためなら、主導権は渡さない。",
+    "tags": [
+      "対等関係",
+      "表面協調",
+      "裏の駆け引き"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "8",
+    "core_belief": "深く関わる相手ほど、主導権の在り処が気になる。",
+    "tags": [
+      "美的執着",
+      "対等支配",
+      "情の駆け引き"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "9",
+    "core_belief": "思想や信条も、共有できなければ意味がない。",
+    "tags": [
+      "理念調整",
+      "共鳴優先",
+      "思想外交"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "10",
+    "core_belief": "洗練されたリーダーシップこそが、尊敬を生む。",
+    "tags": [
+      "優雅な指導",
+      "公的品位",
+      "美と権力"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "11",
+    "core_belief": "仲間内の調和を壊す者には、優雅に牙を向ける。",
+    "tags": [
+      "集団内支配",
+      "静かな制圧",
+      "輪の防衛"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "house": "12",
+    "core_belief": "静かな場所でも、心の中では均衡を取り続けている。",
+    "tags": [
+      "内的均衡",
+      "無意識の攻防",
+      "目に見えぬ主導権"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "1",
+    "core_belief": "浅い関わりでは、自分の火は見せない。",
+    "tags": [
+      "隠された衝動",
+      "選択的表出",
+      "自己制御"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "2",
+    "core_belief": "手放さない。それが本当に価値のあるものなら。",
+    "tags": [
+      "所有の執念",
+      "強靭な執着",
+      "価値防衛"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "3",
+    "core_belief": "言葉は探り、仕掛け、最後に刺す。",
+    "tags": [
+      "戦略的会話",
+      "心理操作",
+      "観察的発言"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "4",
+    "core_belief": "守る場所を壊すやつは、絶対に許さない。",
+    "tags": [
+      "家庭防衛",
+      "根源的怒り",
+      "報復意志"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "5",
+    "core_belief": "本気で愛したら、全てを賭ける覚悟をする。",
+    "tags": [
+      "激烈な愛情",
+      "創造と破壊",
+      "命懸けの表現"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "6",
+    "core_belief": "毎日の中で、密かに戦いは続いている。",
+    "tags": [
+      "日常内闘争",
+      "静かな粘り",
+      "任務遂行"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "7",
+    "core_belief": "関係とは力のやり取り。支配か、服従か。",
+    "tags": [
+      "対人攻防",
+      "主導権争い",
+      "関係性の密度"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "8",
+    "core_belief": "混ざり合うなら、完全に。半端な繋がりはいらない。",
+    "tags": [
+      "魂的統合",
+      "絶対的融合",
+      "深層忠誠"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "9",
+    "core_belief": "信じるもののために、壊すことも選ぶ。",
+    "tags": [
+      "過激信念",
+      "信条による選別",
+      "理想の破壊者"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "10",
+    "core_belief": "社会の頂点に立つなら、誰よりも深く潜れ。",
+    "tags": [
+      "戦略的出世",
+      "影の実力者",
+      "支配の構築"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "11",
+    "core_belief": "信頼できる仲間は限られている。だから守る。",
+    "tags": [
+      "限定的連帯",
+      "深い絆",
+      "選ばれた繋がり"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "house": "12",
+    "core_belief": "見えない場所で、静かに戦うことを選んだ。",
+    "tags": [
+      "無言の攻防",
+      "内的戦闘",
+      "隠された本心"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "1",
+    "core_belief": "自分の思うままに動いてみて、あとから意味をつければいいと思う。",
+    "tags": [
+      "自由行動",
+      "直感本位",
+      "衝動の肯定"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "2",
+    "core_belief": "得たものは惜しまない。そのぶん、また新しい何かを見つければいい。",
+    "tags": [
+      "自由な価値観",
+      "浪費も投資",
+      "動的所有"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "3",
+    "core_belief": "伝えるってことは、押しつけじゃなくて投げかけだと思ってる。",
+    "tags": [
+      "フランクな主張",
+      "伝達と放流",
+      "言葉の旅"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "4",
+    "core_belief": "居場所って、縛られるもんじゃなく、自分で選ぶもんだろ？",
+    "tags": [
+      "移動型基盤",
+      "家庭観の自由",
+      "自主的拠点"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "5",
+    "core_belief": "やってみたいと思ったら、やらなきゃ気が済まない。",
+    "tags": [
+      "衝動表現",
+      "遊びの本気",
+      "ノリと突進"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "6",
+    "core_belief": "一つの方法に縛られてたら、成長なんてできない。",
+    "tags": [
+      "柔軟勤務",
+      "修行感覚",
+      "改善衝動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "7",
+    "core_belief": "対等でいられる相手とじゃないと、長くは続けられない気がする。",
+    "tags": [
+      "自由な関係",
+      "平等志向",
+      "パートナー探索"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "8",
+    "core_belief": "深く関わるってことは、お互いの限界に踏み込むってことでもある。",
+    "tags": [
+      "冒険的結合",
+      "心理の旅",
+      "過激な信頼"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "9",
+    "core_belief": "正しいと思ったことは、誰が相手でも譲る気はない。",
+    "tags": [
+      "信念の押し出し",
+      "理念主導",
+      "討論的行動"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "10",
+    "core_belief": "自分の背中を見せていれば、誰かがついてくると信じてる。",
+    "tags": [
+      "行動的リーダー",
+      "示範型野心",
+      "先陣走者"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "11",
+    "core_belief": "仲間とつながるって、面白い方に進んでいけるってことだと思う。",
+    "tags": [
+      "拡張的連携",
+      "ノリ重視",
+      "探検的グループ"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "house": "12",
+    "core_belief": "足を止めると不安になる。だから、内面すら旅の途中だと思ってる。",
+    "tags": [
+      "精神的逃避",
+      "動的無意識",
+      "終わらない探求"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "1",
+    "core_belief": "目立たなくていい。結果で示すタイプなんだ。",
+    "tags": [
+      "自己抑制",
+      "実行力",
+      "無言の意志"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "2",
+    "core_belief": "価値ってのは、積み重ねた時間で測られると思う。",
+    "tags": [
+      "資産構築",
+      "継続的努力",
+      "実用主義"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "3",
+    "core_belief": "無駄のない言葉で、必要なことだけを伝えたい。",
+    "tags": [
+      "簡潔主義",
+      "実務的会話",
+      "効率的伝達"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "4",
+    "core_belief": "家族は守る対象であり、背負う責任でもある。",
+    "tags": [
+      "責任的家庭観",
+      "基盤防衛",
+      "堅牢な支柱"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "5",
+    "core_belief": "遊びでも勝ちたい。そこに手を抜く理由はない。",
+    "tags": [
+      "勝負表現",
+      "結果重視",
+      "競技的創造"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "6",
+    "core_belief": "仕事とは成果を出すもの。そのためなら努力も当然だ。",
+    "tags": [
+      "勤勉",
+      "結果至上",
+      "構造的働き"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "7",
+    "core_belief": "パートナーにも、自分と同じだけの覚悟を求める。",
+    "tags": [
+      "責任共有",
+      "長期視点",
+      "契約的関係"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "8",
+    "core_belief": "深く関わる以上、軽さは要らない。重さで返してほしい。",
+    "tags": [
+      "深層的義務",
+      "固着的信頼",
+      "重い覚悟"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "9",
+    "core_belief": "理念が現実に落とせないなら、それはまだ未完成だ。",
+    "tags": [
+      "現実信念",
+      "実務的理想",
+      "論理的拡張"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "10",
+    "core_belief": "高みに立つなら、責任の重さも引き受ける覚悟がいる。",
+    "tags": [
+      "権威構築",
+      "社会的義務",
+      "頂上志向"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "11",
+    "core_belief": "仲間とは、目的のために動ける集団のことだと思ってる。",
+    "tags": [
+      "目的共有",
+      "集団遂行力",
+      "実務連携"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "house": "12",
+    "core_belief": "静かに見えても、内側では計画がずっと動いてる。",
+    "tags": [
+      "内的構築",
+      "戦略的沈黙",
+      "隠された責任感"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "1",
+    "core_belief": "誰が何と言おうと、自分のやり方のほうが理にかなってると思ってる。",
+    "tags": [
+      "独自路線",
+      "上位視点",
+      "非同調"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "2",
+    "core_belief": "無駄なものは持たない。でも、持ってるものは他人より使いこなせる。",
+    "tags": [
+      "合理的所有",
+      "性能重視",
+      "優越の静観"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "3",
+    "core_belief": "言い返す気はないけど、間違いはちゃんと潰しておく主義。",
+    "tags": [
+      "論破静観",
+      "冷笑的主張",
+      "情報の圧"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "4",
+    "core_belief": "自分の安心は、自分の思想で守る。他人の枠組みはいらない。",
+    "tags": [
+      "内的制度",
+      "個室的拠点",
+      "思想防衛"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "5",
+    "core_belief": "目立ちたくはない。でも、誰より目を引くって自覚はある。",
+    "tags": [
+      "異端表現",
+      "選ばれた突出",
+      "皮肉な演出"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "6",
+    "core_belief": "どうせやるなら、自分流で最適化してやる。それが一番効率いい。",
+    "tags": [
+      "型破り実務",
+      "自己合理化",
+      "方法論の独占"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "7",
+    "core_belief": "対等が理想。でも、本当に対等な相手って滅多にいない。",
+    "tags": [
+      "皮肉的対話",
+      "関係の選別",
+      "冷静なマウント"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "8",
+    "core_belief": "深入りするなら、思考レベルで融合できる人じゃないと無理。",
+    "tags": [
+      "知的結合",
+      "精神同調",
+      "深層選別"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "9",
+    "core_belief": "正しさはアップデートされてこそ意味がある。古い信念は暴く対象。",
+    "tags": [
+      "思想刷新",
+      "信念批判",
+      "脱構築"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "10",
+    "core_belief": "時代の先に立つって、反感を買うくらいがちょうどいい。",
+    "tags": [
+      "未来指向",
+      "体制挑戦",
+      "浮いた成功"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "11",
+    "core_belief": "つながれる相手とは、言葉じゃなく発想で通じてる。",
+    "tags": [
+      "知的結社",
+      "電波共鳴",
+      "非言語的絆"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "house": "12",
+    "core_belief": "誰にも見えない場所で、ずっと観察してる。必要なら壊すことも含めて。",
+    "tags": [
+      "内なる反逆",
+      "静かな制圧",
+      "影の知性"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "1",
+    "core_belief": "止めようとしても、気づくと流れは始まってる。もう、止まらない。",
+    "tags": [
+      "無意識駆動",
+      "情動暴走",
+      "自我の洪水"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "2",
+    "core_belief": "失っても、またどこかで手に入る。そういう巡りで生きてる。",
+    "tags": [
+      "流動的価値",
+      "喪失と循環",
+      "資源の霧"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "3",
+    "core_belief": "言葉が波のように溢れる。でも、何が刺さるかは自分でも分からない。",
+    "tags": [
+      "感情言語",
+      "言葉の波状攻撃",
+      "意図なき棘"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "4",
+    "core_belief": "守りたい気持ちはあるけど、巻き込んで壊してしまうこともある。",
+    "tags": [
+      "情緒防衛",
+      "破壊的庇護",
+      "混乱の拠点"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "5",
+    "core_belief": "想像と現実の区別がつかなくなる。そのままぶつけてしまうこともある。",
+    "tags": [
+      "幻想衝動",
+      "演出と暴走",
+      "破壊的創造"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "6",
+    "core_belief": "他人の痛みに同調しすぎて、自分の限界も破ってしまう。",
+    "tags": [
+      "共感過剰",
+      "自己崩壊労働",
+      "無意識の自己犠牲"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "7",
+    "core_belief": "誰かの中に溶けていくことで、相手を丸ごと飲み込むことがある。",
+    "tags": [
+      "関係の溺死",
+      "吸収的支配",
+      "共依存的侵食"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "8",
+    "core_belief": "混ざるなら徹底的に。壊れるか溶けるか、それくらいじゃないと意味がない。",
+    "tags": [
+      "極限結合",
+      "境界浸食",
+      "精神の崩壊と再生"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "9",
+    "core_belief": "信じているものが嘘でも構わない。動ける理由になるなら、それでいい。",
+    "tags": [
+      "幻想理念",
+      "盲目的信仰",
+      "信じることで破壊する"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "10",
+    "core_belief": "人の夢を背負いすぎて、自分の形が崩れる。でも、それでも進む。",
+    "tags": [
+      "夢の代行",
+      "流動的野心",
+      "感情的指導"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "11",
+    "core_belief": "集団に溶けすぎて、どこまでが自分の意志だったか分からなくなる。",
+    "tags": [
+      "共鳴崩壊",
+      "群れの幻想",
+      "意志の吸収"
+    ]
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "house": "12",
+    "core_belief": "見えないところで、ゆっくり崩れていく。気づいた時にはもう遅い。",
+    "tags": [
+      "無意識崩壊",
+      "静かな終焉",
+      "霧中の滅び"
+    ]
+  }
+]

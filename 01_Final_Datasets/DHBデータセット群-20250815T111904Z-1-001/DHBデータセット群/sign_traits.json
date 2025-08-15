@@ -1,0 +1,50 @@
+{
+  "Aries": {
+    "outer_surface": "Appears bold and action-oriented, often leading with visible confidence and drive.",
+    "inner_state": "Internally tends toward impulsiveness and frustration. This may manifest as burnout or avoidance when facing obstacles."
+  },
+  "Taurus": {
+    "outer_surface": "Appears grounded and calm, often exuding stability and appreciation for tangible comfort.",
+    "inner_state": "Internally tends toward resistance to change and attachment to routines. This may manifest as stubbornness or inflexibility."
+  },
+  "Gemini": {
+    "outer_surface": "Appears witty and quick-thinking, often engaging others with a lively stream of ideas and words.",
+    "inner_state": "Internally tends toward emotional detachment and restlessness. This may manifest as superficiality or scattered focus."
+  },
+  "Cancer": {
+    "outer_surface": "Appears gentle and nurturing, often offering emotional warmth and protective care.",
+    "inner_state": "Internally tends toward hypersensitivity and emotional withdrawal. This may manifest as clinginess or defensive behavior."
+  },
+  "Leo": {
+    "outer_surface": "Appears confident and expressive, often drawing attention through bold or charismatic behavior.",
+    "inner_state": "Internally tends toward insecurity when not affirmed. This may manifest as emotional overcompensation or self-doubt."
+  },
+  "Virgo": {
+    "outer_surface": "Appears composed and detail-conscious, often taking a practical and helpful stance in social contexts.",
+    "inner_state": "Internally tends toward perfectionism and overcritical thinking. This may manifest as self-imposed pressure or judgmental tendencies."
+  },
+  "Libra": {
+    "outer_surface": "Appears balanced and charming, often engaging with grace and a sense of visual or social harmony.",
+    "inner_state": "Internally tends toward indecisiveness and avoidance of conflict. This may manifest as people-pleasing or loss of self-identity."
+  },
+  "Scorpio": {
+    "outer_surface": "Appears intense and deeply focused, often carrying a quiet magnetism or sense of emotional depth.",
+    "inner_state": "Internally tends toward jealousy and emotional control. This may manifest as suspicion or internalized resentment."
+  },
+  "Sagittarius": {
+    "outer_surface": "Appears optimistic and adventurous, often inspiring others with bold ideas and love for freedom.",
+    "inner_state": "Internally tends toward overconfidence or emotional detachment. This may manifest as avoidance or disregard for consequences."
+  },
+  "Capricorn": {
+    "outer_surface": "Appears responsible and composed, often showing ambition and reliability in practical matters.",
+    "inner_state": "Internally tends toward self-doubt and fear of failure. This may manifest as emotional repression or workaholic tendencies."
+  },
+  "Aquarius": {
+    "outer_surface": "Appears innovative and independent, often conveying a cool detachment and unique perspective.",
+    "inner_state": "Internally tends toward emotional distancing and stubborn ideals. This may manifest as aloofness or difficulty connecting deeply."
+  },
+  "Pisces": {
+    "outer_surface": "Appears dreamy and empathetic, often offering a soft presence that invites imagination and sensitivity.",
+    "inner_state": "Internally tends toward confusion and emotional overwhelm. This may manifest as escapism or merging of personal boundaries."
+  }
+}

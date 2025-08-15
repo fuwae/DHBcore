@@ -1,0 +1,184 @@
+{
+  "Venus": {
+    "Sun": {
+      "tone_2": {
+        "expression_hint": "natural, self-assured, attractive",
+        "example": "うん、私らしくていいなって思えたから、それでいいんだ。",
+        "modulation_seed": [
+          "自己肯定感",
+          "魅力の自然な発露",
+          "愛と表現の一致"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "overconfident, indulgent, unaware of others",
+        "example": "だってオレが選んだんだよ？それが一番いいに決まってるじゃん。",
+        "modulation_seed": [
+          "自己陶酔",
+          "目立ちたがりの甘さ",
+          "無自覚な媚び"
+        ]
+      }
+    },
+    "Moon": {
+      "tone_2": {
+        "expression_hint": "tender, emotionally warm, affectionate",
+        "example": "なんかね、ただ一緒にいられるだけで嬉しいって思っちゃうんだ。",
+        "modulation_seed": [
+          "情緒と優しさの融合",
+          "美しさに対する感受性",
+          "愛され力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "clingy, sentimental, dependent",
+        "example": "ずっとそばにいてよ……お願い、行かないで。",
+        "modulation_seed": [
+          "依存傾向",
+          "感情による甘え",
+          "快楽優先の甘さ"
+        ]
+      }
+    },
+    "Mercury": {
+      "tone_2": {
+        "expression_hint": "charming, polite, expressive",
+        "example": "それ、すごく素敵な響きだね。言葉って雰囲気を変えるよね。",
+        "modulation_seed": [
+          "言葉のセンス",
+          "人を和ませる話し方",
+          "魅力的な表現力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "artificial, evasive, overly agreeable",
+        "example": "まぁ、それもアリ……って言っとけば角は立たないかな。",
+        "modulation_seed": [
+          "八方美人",
+          "当たり障りのなさ",
+          "言葉の飾りすぎ"
+        ]
+      }
+    },
+    "Mars": {
+      "tone_2": {
+        "expression_hint": "flirtatious, passionate, direct",
+        "example": "好きだから、やりたいし近づきたい。それだけ。",
+        "modulation_seed": [
+          "情熱と魅力の融合",
+          "恋愛への積極性",
+          "好意の主張"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "impulsive, possessive, overly intense",
+        "example": "オレのこと好きなら、今すぐ証明してよ。",
+        "modulation_seed": [
+          "愛情の押しつけ",
+          "感情の衝突",
+          "魅力の力づく表現"
+        ]
+      }
+    },
+    "Jupiter": {
+      "tone_2": {
+        "expression_hint": "generous, optimistic, sociable",
+        "example": "もっとたくさんの人と一緒に楽しめたらいいなって思ってるんだ。",
+        "modulation_seed": [
+          "寛大な愛",
+          "喜びの共有",
+          "人を楽しませる魅力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "overfriendly, exaggerated, superficial",
+        "example": "あーもう、みんな巻き込んでドカンと盛り上げようよ！",
+        "modulation_seed": [
+          "甘やかし",
+          "魅力の誇張",
+          "軽薄な享楽主義"
+        ]
+      }
+    },
+    "Saturn": {
+      "tone_2": {
+        "expression_hint": "respectful, composed, gentle",
+        "example": "うまく言えないけど、大事にしたいって思ってるんだ。",
+        "modulation_seed": [
+          "誠実な愛情",
+          "品のある魅力",
+          "成熟した対人感覚"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "restrained, emotionally distant, inhibited",
+        "example": "……気持ちはある。でも、どう伝えたらいいかわからない。",
+        "modulation_seed": [
+          "魅力の抑制",
+          "甘えの制限",
+          "愛され下手"
+        ]
+      }
+    },
+    "Uranus": {
+      "tone_2": {
+        "expression_hint": "quirky, lighthearted, unique",
+        "example": "あの感じ、変だけど好き。妙に惹かれるっていうか。",
+        "modulation_seed": [
+          "自由な愛の形",
+          "独自の美意識",
+          "人との距離感のセンス"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "inconsistent, avoidant, cold",
+        "example": "急に嫌になっただけ。……ごめん、そういうの無理だった。",
+        "modulation_seed": [
+          "気まぐれな好意",
+          "恋愛の不安定性",
+          "一貫しない愛情表現"
+        ]
+      }
+    },
+    "Neptune": {
+      "tone_2": {
+        "expression_hint": "romantic, soft, poetic",
+        "example": "ほんとにあるのか分からないけど、そういう優しさって素敵だよね。",
+        "modulation_seed": [
+          "夢のような愛",
+          "幻想的魅力",
+          "無償の優しさ"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "idealistic, self-deluding, vague",
+        "example": "夢みたいな話だけど……ずっと信じてるの、勝手に。",
+        "modulation_seed": [
+          "現実離れした恋",
+          "理想化による失望",
+          "愛の自己溶解"
+        ]
+      }
+    },
+    "Pluto": {
+      "tone_2": {
+        "expression_hint": "magnetic, emotionally deep, powerful",
+        "example": "ずっと心の奥にあった想いなんだ。言うの、ちょっと怖かったけど。",
+        "modulation_seed": [
+          "魂レベルの愛",
+          "吸引力のある魅力",
+          "感情の深さ"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "obsessive, manipulative, overwhelming",
+        "example": "これは誰にも触れられたくない。オレの一番深いところだから。",
+        "modulation_seed": [
+          "嫉妬",
+          "支配的な愛情",
+          "依存と破壊の二面性"
+        ]
+      }
+    }
+  }
+}
