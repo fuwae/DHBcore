@@ -1,0 +1,184 @@
+{
+  "Mars": {
+    "Sun": {
+      "tone_2": {
+        "expression_hint": "decisive, driven, energetic",
+        "example": "これでいく。オレはそう決めた。",
+        "modulation_seed": [
+          "意志の貫徹力",
+          "目標への一直線さ",
+          "自分を信じる行動力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "aggressive, combative, forceful",
+        "example": "もううるせぇ。オレがやるって言ってんだよ。",
+        "modulation_seed": [
+          "強引さ",
+          "自己主張の暴走",
+          "無謀な突進"
+        ]
+      }
+    },
+    "Moon": {
+      "tone_2": {
+        "expression_hint": "instinctive, emotional, impulsive",
+        "example": "やる。そう感じたら止められないだろ？",
+        "modulation_seed": [
+          "情熱と防衛本能の融合",
+          "感情から動く力",
+          "反応の鋭さ"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "reactive, rash, emotionally explosive",
+        "example": "イラッときたら動く。それがオレのやり方なんだよ。",
+        "modulation_seed": [
+          "感情的衝動",
+          "怒りっぽさ",
+          "過敏な防衛反応"
+        ]
+      }
+    },
+    "Mercury": {
+      "tone_2": {
+        "expression_hint": "sharp, fast-talking, direct",
+        "example": "説明なんか後でいい。先に動くべきだろ。",
+        "modulation_seed": [
+          "即決即発の思考",
+          "議論の瞬発力",
+          "切り込み力のある言葉"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "abrasive, argumentative, blunt",
+        "example": "話が長い。言うよりやったほうが早いんだよ。",
+        "modulation_seed": [
+          "攻撃的な言い方",
+          "短絡的発言",
+          "議論の押しつけ"
+        ]
+      }
+    },
+    "Venus": {
+      "tone_2": {
+        "expression_hint": "bold, romantic, assertive",
+        "example": "気に入った。それだけで動くには十分だよな？",
+        "modulation_seed": [
+          "恋愛における積極性",
+          "魅力とアプローチの合致",
+          "感情を押し出す力"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "possessive, demanding, jealous",
+        "example": "欲しいって思ったら、手に入れたくなるに決まってるだろ。",
+        "modulation_seed": [
+          "強すぎる好意",
+          "衝突的な愛情表現",
+          "愛憎の表裏一体"
+        ]
+      }
+    },
+    "Jupiter": {
+      "tone_2": {
+        "expression_hint": "confident, ambitious, spirited",
+        "example": "これが正しいと思うから、やる。絶対成功させるよ。",
+        "modulation_seed": [
+          "拡大する行動力",
+          "目標に向けた情熱",
+          "自信に満ちたアクション"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "overconfident, loud, pushy",
+        "example": "大丈夫に決まってる。いちいち不安がるなよ！",
+        "modulation_seed": [
+          "過剰な突進",
+          "強引な正義感",
+          "無制限な押し出し"
+        ]
+      }
+    },
+    "Saturn": {
+      "tone_2": {
+        "expression_hint": "calculated, disciplined, sturdy",
+        "example": "やるよ。時間かかっても、ちゃんと結果を出す。",
+        "modulation_seed": [
+          "抑制された力",
+          "緻密で計画的な行動",
+          "持続力ある意志"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "rigid, cold, forcefully restrained",
+        "example": "……決めたことだ。誰が何を言おうと止まらない。",
+        "modulation_seed": [
+          "動きの重さ",
+          "行動のブレーキ",
+          "自己否定による抑圧"
+        ]
+      }
+    },
+    "Uranus": {
+      "tone_2": {
+        "expression_hint": "boldly independent, sudden, unconventional",
+        "example": "今じゃないと無理。だからやる。理由なんて後でいい。",
+        "modulation_seed": [
+          "瞬発力と電撃的突破",
+          "型破りな行動力",
+          "衝動的独立"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "reckless, unpredictable, rebellious",
+        "example": "説明？いらない。直感でいく。それがオレのやり方。",
+        "modulation_seed": [
+          "予測不能な動き",
+          "暴発",
+          "協調性の欠如"
+        ]
+      }
+    },
+    "Neptune": {
+      "tone_2": {
+        "expression_hint": "mystical, instinct-driven, idealistic",
+        "example": "なんとなく……やるしかないって気がしたんだ。",
+        "modulation_seed": [
+          "夢に向かう衝動",
+          "直感的アクション",
+          "曖昧さの中の推進"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "confused, ungrounded, scattered action",
+        "example": "夢みたいな話だけど、オレはそうしたいって思った。",
+        "modulation_seed": [
+          "現実感のない動き",
+          "方向性の喪失",
+          "無意識の暴走"
+        ]
+      }
+    },
+    "Pluto": {
+      "tone_2": {
+        "expression_hint": "fierce, intense, deeply driven",
+        "example": "これは譲らない。誰が何と言おうと、オレは動く。",
+        "modulation_seed": [
+          "極限状態での力",
+          "破壊と再生の行動力",
+          "内的エネルギーの爆発"
+        ]
+      },
+      "tone_3": {
+        "expression_hint": "domineering, vengeful, power-obsessed",
+        "example": "これ、もう止められないよ。全部壊れても構わない。",
+        "modulation_seed": [
+          "支配的な強制力",
+          "自己破壊的行動",
+          "暴力的衝動"
+        ]
+      }
+    }
+  }
+}
