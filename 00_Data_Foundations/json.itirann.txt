@@ -26,7 +26,7 @@ tone_style_prompts_noaspect.json
 
 <Tone Style（口調傾向） - 合（conjunction）>
 
-tone_style_prompts_conjunction_sun.json
+tone_style_prompts_conjunction_sun_fixed.json
 tone_style_prompts_conjunction_moon.json
 tone_style_prompts_conjunction_mercury.json
 tone_style_prompts_conjunction_venus.json
